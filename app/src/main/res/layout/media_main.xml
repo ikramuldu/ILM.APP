@@ -1,0 +1,185 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:titleTextColor="?android:textColor" />
+
+        <FrameLayout
+            android:id="@+id/media_frame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:windowBackground">
+
+            <SurfaceView
+                android:id="@+id/video_surface"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:id="@+id/media_control"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:background="@color/md_brown_400"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="@dimen/dp5"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/white" />
+
+                <ImageView
+                    android:id="@+id/play"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/play"
+                    android:src="@drawable/ic_play" />
+
+                <SeekBar
+                    android:id="@+id/media_seek"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
+
+                <ImageView
+                    android:id="@+id/full"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/full_screen"
+                    android:src="@drawable/full" />
+
+                <TextView
+                    android:id="@+id/full_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+
+            <ProgressBar
+                android:id="@+id/loading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:visibility="gone" />
+        </FrameLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/view_pager2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="?attr/actionBarSize"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <LinearLayout
+        android:id="@+id/bottom_nav"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_gravity="bottom"
+        android:background="?colorPrimary"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/book"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="?selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:paddingTop="@dimen/dp5"
+            android:stateListAnimator="@animator/text_size"
+            android:text="@string/books"
+            android:textColor="@color/nav_button_color"
+            app:drawableTopCompat="@drawable/ic_book" />
+
+        <TextView
+            android:id="@+id/article"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="?selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:paddingTop="@dimen/dp5"
+            android:stateListAnimator="@animator/text_size"
+            android:text="@string/article"
+            android:textColor="@color/nav_button_color"
+            app:drawableTopCompat="@drawable/ic_article" />
+
+        <TextView
+            android:id="@+id/video"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="?selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:paddingTop="@dimen/dp5"
+            android:stateListAnimator="@animator/text_size"
+            android:text="@string/video"
+            android:textColor="@color/nav_button_color"
+            app:drawableTopCompat="@drawable/video" />
+
+        <TextView
+            android:id="@+id/audio"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="?selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:paddingTop="@dimen/dp5"
+            android:stateListAnimator="@animator/text_size"
+            android:text="@string/audio"
+            android:textColor="@color/nav_button_color"
+            app:drawableTopCompat="@drawable/ic_headset" />
+
+        <TextView
+            android:id="@+id/fatawa"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="?selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:paddingTop="@dimen/dp5"
+            android:stateListAnimator="@animator/text_size"
+            android:text="@string/fatwa"
+            android:textColor="@color/nav_button_color"
+            app:drawableTopCompat="@drawable/fiqh" />
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

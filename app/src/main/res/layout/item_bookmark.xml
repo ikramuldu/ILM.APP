@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dp10"
+    app:cardBackgroundColor="?inactive"
+    android:foreground="?selectableItemBackground"
+    app:cardCornerRadius="@dimen/dp10">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingStart="@dimen/dp10"
+        android:paddingLeft="@dimen/dp10"
+        android:paddingTop="@dimen/dp10"
+        android:paddingEnd="35dp"
+        android:paddingRight="35dp"
+        android:paddingBottom="@dimen/dp10" />
+
+    <ImageButton
+        android:id="@+id/delete"
+        style="?android:attr/actionOverflowButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:contentDescription="@string/delete"
+        android:src="@drawable/ic_delete" />
+</androidx.cardview.widget.CardView>

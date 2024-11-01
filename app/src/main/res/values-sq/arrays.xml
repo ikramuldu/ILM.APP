@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>Uthmani/Madinase</item>
+        <item>Gjuhë IndoPak Aziatike (Beta)</item>
+    </array>
+    <array name="numerical">
+        <item>Veta e parë</item>
+        <item>Veta e dytë</item>
+        <item>Veta e tretë</item>
+        <item>Njëjës</item>
+        <item>Dyvetore</item>
+        <item>Shumës</item>
+        <item>Mashkullore</item>
+        <item>Femërore</item>
+        <item>Pjesëz aktive</item>
+        <item>Pjesëz pasive</item>
+        <item>Rasa Gjinore</item>
+        <item>Rasa Emërore</item>
+        <item>Rasa Pronore</item>
+        <item>E pacaktuar</item>
+        <item>E kryer</item>
+        <item>E pakryer</item>
+        <item>Urdhërore</item>
+        <item>Dëftore</item>
+        <item>Lidhore</item>
+        <item>Jussive!!</item>
+        <item>Parashtesë</item>
+        <item>Prapashtesë</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>Pjesëz kallzuese</item>
+        <item>Mbiemër</item>
+        <item>Ndryshesë</item>
+        <item>Pjesëz pohore</item>
+        <item>Pjesëz mospëlqimi</item>
+        <item>Pjesëz shkakore</item>
+        <item>Pjesëz saktësimi</item>
+        <item>Pjesëz rrethanore</item>
+        <item>Pjesëz shoqërimi</item>
+        <item>Pjesëz kushtore</item>
+        <item>Pjesëz bashkërenduese</item>
+        <item>Përemri dëftor</item>
+        <item>Përcaktor</item>
+        <item>Parafjalë shquese &quot;ل&quot;</item>
+        <item>Pjesëz barasvlefshmërie</item>
+        <item>Pjesëz nxitëse</item>
+        <item>Pjesëz shpjeguese</item>
+        <item>Pjesëz përjashtuese</item>
+        <item>Pjesëz pritëse</item>
+        <item>Emri foljor urdhëror</item>
+        <item>Parafjalë urdhërore &quot;ل&quot;</item>
+        <item>Pjesëz nistore</item>
+        <item>Inicialet kuranore</item>
+        <item>Pjesëz e shpjegimit</item>
+        <item>Pjesëz pyetëse</item>
+        <item>Ndajfolja vendi</item>
+        <item>Emër</item>
+        <item>Pjesëz mohuese</item>
+        <item>Parafjalë</item>
+        <item>Emër i përveçëm</item>
+        <item>Pjesëz parandaluese</item>
+        <item>Pjesëz ndalimi</item>
+        <item>Përemri vetor</item>
+        <item>Parafjalë qëllimoore &quot;ل&quot;</item>
+        <item>Përemri lidhor</item>
+        <item>Pjesëz rinisëse</item>
+        <item>Pjesëz kufizuese</item>
+        <item>Pjesëz tërheqse</item>
+        <item>Pjesëz pasive</item>
+        <item>Lidhëz nënrenditëse</item>
+        <item>Pjesëz plotësuese</item>
+        <item>Pjesëz habitore</item>
+        <item>Ndajfolje kohe</item>
+        <item>Folje</item>
+        <item>Pjesëz thirrore</item>
+        <item>Folje emërore</item>
+        <item>Kujdes</item>
+        <item>Distancë</item>
+        <item>Adresa</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>Do që të dish rreth Kuranit</item>
+        <item>Çfarë thotë Kurani në lidhje me</item>
+        <item>Çfarë thotë Allahu në lidhje me</item>
+        <item>Ajete në lidhje me</item>
+        <item>Ajete në lidhje me</item>
+        <item>Tema interesante në Kuran</item>
+        <item>Tema e sotme</item>
+        <item>Kontrollo këtë nga Kurani</item>
+        <item>Mëso këtë nga Kurani</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>Ajeti për sot</item>
+        <item>Ajeti i sotëm</item>
+        <item>Ke merak të lexosh një Ajet?</item>
+        <item>Mësoje sot një Ajet</item>
+        <item>Ajeti i përditshëm</item>
+        <item>Do që të dish një Ajet?</item>
+        <item>Le të mësojmë një Ajet</item>
+        <item>Ajeti për sot</item>
+        <item>Ke lexuar sot një Ajet?</item>
+        <item>Kliko që të lexosh një Ajet</item>
+        <item>Për çfarë po të thotë Allahu?</item>
+        <item>Le të të flasë sot Allahu</item>
+        <item>A ke biseduar me Allahun sot?</item>
+        <item>Le të flasim me Allahun</item>
+        <item>E ke përkujtuar sot Allahun?</item>
+        <item>E ke falënderuar sot Allahun?</item>
+        <item>Le ta kujtojmë Allahun</item>
+        <item>Ushqim për shpirtin</item>
+        <item>Koha për të rifreskuar mendjen time</item>
+        <item>Mos harro Zotin tënd</item>
+    </array>
+    <array name="sura_translation">
+        <item>Hapja</item>
+        <item>Lopa</item>
+        <item>Familja e Imraanit</item>
+        <item>Gratë</item>
+        <item>Sofra</item>
+        <item>Bagëtitë</item>
+        <item>Lartësitë</item>
+        <item>Plaçka e Luftës</item>
+        <item>Pendimi</item>
+        <item>Profeti Junus</item>
+        <item>Profeti Hud</item>
+        <item>Profeti Jusuf</item>
+        <item>Bubullima</item>
+        <item>Profeti Ibrahim</item>
+        <item>Lugina e Gurtë</item>
+        <item>Bletët</item>
+        <item>Udhëtimi i natës</item>
+        <item>Shpella</item>
+        <item>Merjemja</item>
+        <item>Ta-Ha</item>
+        <item>Profetët</item>
+        <item>Hàxhi</item>
+        <item>Besimtarët</item>
+        <item>Drita</item>
+        <item>Dalluesi</item>
+        <item>Poetët</item>
+        <item>Milingonat</item>
+        <item>Ndodhitë</item>
+        <item>Merimanga</item>
+        <item>Bizantinët</item>
+        <item>Lukmani</item>
+        <item>Përulja e Adhurimit</item>
+        <item>Aleatët</item>
+        <item>Sheba, Jemen</item>
+        <item>Krijuesi</item>
+        <item>Ja Siin</item>
+        <item>Të radhiturit</item>
+        <item>Sàd</item>
+        <item>Grupet e njerëzve</item>
+        <item>Falësi</item>
+        <item>Shtjelluar qartë</item>
+        <item>Këshillimi</item>
+        <item>Stolitë e arta</item>
+        <item>Tymi</item>
+        <item>Gjunjëzimi</item>
+        <item>Vendstrehimet</item>
+        <item>Profeti Muhammed</item>
+        <item>Fitorja</item>
+        <item>Dhomat</item>
+        <item>Gërma \'Kaf\'</item>
+        <item>Erërat shpërndarëse</item>
+        <item>Mali Tur</item>
+        <item>Ylli</item>
+        <item>Hëna</item>
+        <item>I Gjithëmëshirshmi</item>
+        <item>Ngjarja</item>
+        <item>Hekuri</item>
+        <item>Ajo që diskutoi</item>
+        <item>Dëbimi</item>
+        <item>E vëna në pronë</item>
+        <item>Rreshtat e besimtarëve</item>
+        <item>Xhumaja (dita e Premte)</item>
+        <item>Hipokritët</item>
+        <item>Zhgënjim i ndërsjelltë</item>
+        <item>Shkurorëzimi</item>
+        <item>Ndalimi</item>
+        <item>Pushteti</item>
+        <item>Lapsi</item>
+        <item>E Vërteta e pashmangshme</item>
+        <item>Rrugët e ngritjes</item>
+        <item>Profeti Nuh</item>
+        <item>Xhindët</item>
+        <item>I Mbuluari</item>
+        <item>I Mbështjelluri</item>
+        <item>Ringjallja</item>
+        <item>Njeriu</item>
+        <item>Ato që dërgohen</item>
+        <item>Lajmi i madh</item>
+        <item>Engjëjt që nxjerrin shpirtrat</item>
+        <item>Ai u vrenjt</item>
+        <item>Errësimi i plotë</item>
+        <item>Çarja e qiellit</item>
+        <item>Mashtruesit</item>
+        <item>Ndarja e Hapur</item>
+        <item>Yjësitë</item>
+        <item>Ylli i mëngjesit</item>
+        <item>Më i Larti</item>
+        <item>Tejkalimi</item>
+        <item>Agimi</item>
+        <item>Qyteti</item>
+        <item>Dielli</item>
+        <item>Nata</item>
+        <item>Litari</item>
+        <item>Sinqeriteti i besimit</item>
+        <item>Agimi</item>
+        <item>Strehimi i njerëzve</item>
+        <item>Fuqia, Fati</item>
+        <item>Prova</item>
+        <item>Tërmeti</item>
+        <item>Ngarkuesit</item>
+        <item>Fatkeqësia</item>
+        <item>Garimi</item>
+        <item>Dita në rënie, Epoka</item>
+        <item>Tregtari</item>
+        <item>Elefanti</item>
+        <item>Kurejshit</item>
+        <item>Dhënësi i lëmoshës</item>
+        <item>Begatia</item>
+        <item>Jobesimtarët</item>
+        <item>Mbështetja Hyjnore</item>
+        <item>Litari i Palmës</item>
+        <item>Sinqeriteti</item>
+        <item>Agimi</item>
+        <item>Njerëzit</item>
+    </array>
+
+    <array name="theme_names">
+        <item>Ngjyrë e Bardhë</item>
+        <item>E Zezë (Natën)</item>
+        <item>Ngjyrë Jeshile</item>
+        <item>Ngjyrë Kafe</item>
+        <item>Dark Blue</item>
+    </array>
+    <array name="tut_descs">
+        <item>Kupto Kuranin me përkthime të shumta të Tefsirit të Ibn Kathirit</item>
+        <item>Texhvid i koduar me ngjyra, Kalim auto nga rreshti në rresht &amp; më shumë</item>
+        <item>Analizë e hollësishme e fjalës kur klikon mbi të dhe Aftësia për kërkim të saj</item>
+        <item>Ndrysho sfondet,Gërmat &amp; Kap zmadho të ndryshosh lartësinë e shkrimit</item>
+    </array>
+    <array name="verb_form_names">
+        <item>Koha e Kryer</item>
+        <item>Koha e pakryer</item>
+        <item>Urdhërore</item>
+        <item>Pjesëz aktive</item>
+        <item>Pjesëz pasive</item>
+        <item>Formë Emërore</item>
+    </array>
+</resources>

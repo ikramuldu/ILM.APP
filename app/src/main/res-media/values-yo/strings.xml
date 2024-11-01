@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="books">Iwe</string>
+    <string name="article">المقالات</string>
+    <string name="video">aworan</string>
+    <string name="audio">ohun</string>
+    <string name="fatwa">الفتاوى</string>
+</resources>

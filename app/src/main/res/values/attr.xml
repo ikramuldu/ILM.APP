@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="active" format="color" />
+    <attr name="inactive" format="color" />
+    <attr name="tab_text" format="color" />
+</resources>

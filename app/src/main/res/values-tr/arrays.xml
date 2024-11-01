@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>Osmani</item>
+        <item>IndoPak/Asian (Beta)</item>
+    </array>
+    <array name="numerical">
+        <item>1. Kişi</item>
+        <item>2. Kişi</item>
+        <item>3. kişi</item>
+        <item>Tekil</item>
+        <item>İkili</item>
+        <item>Çoğul</item>
+        <item>Erkeksi</item>
+        <item>Kadınsı</item>
+        <item>Fiili yapan</item>
+        <item>Fiili yaptıran</item>
+        <item>Genitif hal</item>
+        <item>Sade</item>
+        <item>İyelik</item>
+        <item>Belirsiz</item>
+        <item>Tamamlanmış (kusursuz)</item>
+        <item>Tamamlanmamış (kusurlu)</item>
+        <item>Emir cümlesi</item>
+        <item>Belirteç</item>
+        <item>dilek kipi</item>
+        <item>emir</item>
+        <item>Örnek</item>
+        <item>Son ek</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>Aktarıcı edatı</item>
+        <item>sıfat</item>
+        <item> düzeltme edatı</item>
+        <item>Cevap edatı</item>
+        <item>hoşlanmama edatı</item>
+        <item>Sebeb edatı </item>
+        <item>Kessin  edatı </item>
+        <item>Koşula bağlı edatı</item>
+        <item>Birliktelik edatı </item>
+        <item>Şart edatı </item>
+        <item>Eşitlik bağlacı</item>
+        <item>İnandırıcı Zamiri</item>
+        <item>Belirteç</item>
+        <item>Vurgulu örnek </item>
+        <item>Eşitleme edatı</item>
+        <item>Teşvik edatı</item>
+        <item>açıklama edatı</item>
+        <item>Ayrı tutan edatı</item>
+        <item>gelecek edatı</item>
+        <item>Ayrıcalıklı sözel isim</item>
+        <item>Emir laam önek</item>
+        <item>başlama edatı</item>
+        <item>Kur\'an başlangıçları</item>
+        <item>Yorum edatı</item>
+        <item>Sorgulama edatı</item>
+        <item>Mekan zarfı</item>
+        <item>isim</item>
+        <item>Negatif (olumsuz) edatı</item>
+        <item>Edat</item>
+        <item>Özel isim</item>
+        <item>Önlem edatı</item>
+        <item>Yasak edatı</item>
+        <item>Kişi zamiri</item>
+        <item>Amaçlı örnek</item>
+        <item>İlgi zamiri</item>
+        <item>Yeniden edatı</item>
+        <item>Sınırlama edatı</item>
+        <item>Geri alma edatı</item>
+        <item>Sonuç edatı</item>
+        <item>Alt bağlayıcı bağlantı</item>
+        <item>Tamamlayıcı edatı</item>
+        <item>Sürpriz edatı</item>
+        <item>Zaman zarfı</item>
+        <item>Fiil</item>
+        <item>Seslenme edatı</item>
+        <item>İsimsiz Fiil</item>
+        <item>Dikkat</item>
+        <item>Mesafe</item>
+        <item>Hitabe (söylev) </item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>Kur\'an hakkında bilmek ister misiniz</item>
+        <item>Kur\'an ne buyuruyor</item>
+        <item>Allah ne diyor?</item>
+        <item>Ayetler hakkında</item>
+        <item>Sureler hakkında </item>
+        <item>Kur\'an\'da İlginç bir Konu</item>
+        <item>Bugünün konusu</item>
+        <item>Bunu Kuran\'da kontrol et</item>
+        <item>Bunu Kuran\'dan öğrenin</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>Günün âyeti</item>
+        <item>Bugünün ayeti</item>
+        <item>Bir Ayat okumayı istiyor musun?</item>
+        <item>Bugün bir Ayet öğrenin</item>
+        <item>Gündelik ayet</item>
+        <item>Bir Ayet bilmek ister misiniz?</item>
+        <item>Ayet öğrenelim</item>
+        <item>Bugün için Ayet</item>
+        <item>Bugün bir Ayet oku?</item>
+        <item>Bir Ayat okumak için tıklayın</item>
+        <item>Allah size ne buyurdu?</item>
+        <item>Allah sana bugün buyuruyor!</item>
+        <item>Allah’la bugün konuştun mu?</item>
+        <item>Haydi Allah ile konuşalım</item>
+        <item>Bugün Allah\'ı hatırladın mı?</item>
+        <item>Bugün ALLAH\'A şükrettin mi?</item>
+        <item>Allah\'ı hatırlayalım</item>
+        <item>Ruh\'un gıdasıdır.</item>
+        <item>Zihnimizi yenileme zamanı geldi</item>
+        <item>Rabbini hatırla</item>
+    </array>
+    <array name="sura_translation">
+        <item>Açılış</item>
+        <item>İnek</item>
+        <item>İmran ailesi</item>
+        <item>Kadın</item>
+        <item>Ziyafet (Sofra)</item>
+        <item>Davar</item>
+        <item>Orta Yer</item>
+        <item>Savaşın Gücü (Ganimetler)</item>
+        <item>Tövbe</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Gökgürültüsü</item>
+        <item>İbrahim</item>
+        <item>Hıcr(bir yer)</item>
+        <item>Arı</item>
+        <item>Gece Yolculuğu</item>
+        <item>Mağara</item>
+        <item>Meryem</item>
+        <item>Taha</item>
+        <item>Peygamberler</item>
+        <item>Hac</item>
+        <item>Müminler</item>
+        <item>Işık</item>
+        <item>Ayırıcı</item>
+        <item>Şairler</item>
+        <item>Karınca</item>
+        <item>Kıssalar (Tarihi vakalar)</item>
+        <item>Örümcek</item>
+        <item>Romalılar</item>
+        <item>Lokman</item>
+        <item>Secde</item>
+        <item>Gruplar</item>
+        <item>Sebe (bölge)</item>
+        <item>Yaratan</item>
+        <item>Yasin (isim)</item>
+        <item>Saf Tutanlar</item>
+        <item>Sad (harf)</item>
+        <item>Yığınlar</item>
+        <item>Bağışlayan</item>
+        <item>Ayrıntılı</item>
+        <item>Danışma</item>
+        <item>Gösteriş-Süsler</item>
+        <item>Duman</item>
+        <item>Diz Çöküş</item>
+        <item>Kum Tepeleri</item>
+        <item>Muhammed</item>
+        <item>Fetih (zafer)</item>
+        <item>Odalar</item>
+        <item>Kaf (harf)</item>
+        <item>Tozutup Savuranlar</item>
+        <item>Tur (dağ)</item>
+        <item>Yıldız</item>
+        <item>Ay</item>
+        <item>Merhamet</item>
+        <item>Olay</item>
+        <item>Demir</item>
+        <item>Mücadeleci Kadın</item>
+        <item>Toplanma</item>
+        <item>Sorgulanan</item>
+        <item>Saf Tutmak</item>
+        <item>Cuma (toplanma)</item>
+        <item>Münafıklar (ikiyüzlü)</item>
+        <item>Aldanış</item>
+        <item>Boşanma</item>
+        <item>Yasaklama</item>
+        <item>Egemenlik (yünetim)</item>
+        <item>Kalem</item>
+        <item>Gerçekleşen</item>
+        <item>Yükseliş yolları</item>
+        <item>Nuh</item>
+        <item>Cin</item>
+        <item>Bürünen</item>
+        <item>Gizlenen</item>
+        <item>Diriliş</item>
+        <item>İnsan</item>
+        <item>Gönderilenler</item>
+        <item>Haber</item>
+        <item>Söküp çıkaranlar</item>
+        <item>Surat astı</item>
+        <item>Dolama</item>
+        <item>Parçalama</item>
+        <item>Kandılanlar</item>
+        <item>Yarılma</item>
+        <item>Burçlar</item>
+        <item>Vuruşlu</item>
+        <item>Yüce</item>
+        <item>Kuşatan</item>
+        <item>şafak (Tan vakti)</item>
+        <item>Şehir</item>
+        <item>Güneş</item>
+        <item>Gece</item>
+        <item>Kuşluk vakti</item>
+        <item>Ferahlık</item>
+        <item>İncir</item>
+        <item>Pıhtı</item>
+        <item>Güç, kudret</item>
+        <item>Kanıt</item>
+        <item>Deprem</item>
+        <item>Nefes nefese koşmak</item>
+        <item>Şiddetli ses</item>
+        <item>Çoğalma yarışı</item>
+        <item>Zaman, çağ</item>
+        <item>Dedikoducu</item>
+        <item>Fil</item>
+        <item>Kureyş</item>
+        <item>Yardımlaşma</item>
+        <item>Bolca güzellik</item>
+        <item>İnkarcılar</item>
+        <item>Allahın yardımı</item>
+        <item>Bükülmüş ip</item>
+        <item>Özgüleme</item>
+        <item>Açılma</item>
+        <item>İnsanlar</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>El-Fatiha</item>
+        <item>El-Bakara</item>
+        <item>Al-i-imran</item>
+        <item>En-Nisa\'</item>
+        <item>El-Ma\'ideh</item>
+        <item>El-An\'am</item>
+        <item>El-A\'raf</item>
+        <item>El-Anfal</item>
+        <item>Et-Tevbe</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Er-Ra\'d</item>
+        <item>İbrahim</item>
+        <item>El-Hicr</item>
+        <item>En-Nehl</item>
+        <item>El-isra\'</item>
+        <item>El-Kehf</item>
+        <item>Meryem</item>
+        <item>Ta Ha</item>
+        <item>El-Enbiya</item>
+        <item>El-Hac</item>
+        <item>E-Mu\'minun</item>
+        <item>En-Nur</item>
+        <item>El-Furqan</item>
+        <item>Eş-Şu\'ara\'</item>
+        <item>En-Neml</item>
+        <item>El-Qasas</item>
+        <item>El-\'Ankebut</item>
+        <item>Er-Rum</item>
+        <item>Luqman</item>
+        <item>Es-Secde</item>
+        <item>El-Ahzab</item>
+        <item>Sebe</item>
+        <item>Fatır</item>
+        <item>Yasin</item>
+        <item>Es-Saffat</item>
+        <item>Sad</item>
+        <item>Ez-Zumer</item>
+        <item>Ğafir</item>
+        <item>Fussilet</item>
+        <item>Eş-şura</item>
+        <item>Ez-Zuhruf</item>
+        <item>Ed-Duhan</item>
+        <item>Al-casiyah</item>
+        <item>El-Ahqaf</item>
+        <item>Muhammed</item>
+        <item>El-feth</item>
+        <item>El-Hucurat</item>
+        <item>Kaf</item>
+        <item>Az-zariyat</item>
+        <item>Et-Tur</item>
+        <item>En-Necm</item>
+        <item>El-Qamer</item>
+        <item>Er-Rahman</item>
+        <item>El-vaqi\'ah</item>
+        <item>El-Hadid</item>
+        <item>El-Mucadila</item>
+        <item>El-Haşr</item>
+        <item>El-Mumtahana</item>
+        <item>Es-Saf</item>
+        <item>El-cum\'a</item>
+        <item>El-Munafiqun</item>
+        <item>Et-Teğabun</item>
+        <item>Et-Telaq</item>
+        <item>Et-Tahrim</item>
+        <item>El-Mulk</item>
+        <item>El-Qalem</item>
+        <item>El-Haqqa</item>
+        <item>El-Ma\'aric</item>
+        <item>Nuh</item>
+        <item>El-cinn</item>
+        <item>El-Muzzammil</item>
+        <item>El-Muddassir</item>
+        <item>El-Qiyame</item>
+        <item>El-insan</item>
+        <item>El-Murselat</item>
+        <item>En-nebe</item>
+        <item>En-Nazi\'at</item>
+        <item>Abese</item>
+        <item>Et-Tekwir</item>
+        <item>El-infitar</item>
+        <item>El-Mutaffifin</item>
+        <item>El-inşikak</item>
+        <item>El-Buruc</item>
+        <item>Et-Tariq</item>
+        <item>El-A\'la</item>
+        <item>E-Ğaşiye</item>
+        <item>El-Facr</item>
+        <item>El-Baeled</item>
+        <item>Eş-şems</item>
+        <item>Wl-Leyl</item>
+        <item>Ed-Duha</item>
+        <item>Eş-şerh</item>
+        <item>Et-Tin</item>
+        <item>El-\'Alaq</item>
+        <item>El-Qadr</item>
+        <item>El-Beyyine</item>
+        <item>Ez-Zilzal</item>
+        <item>El-\'Adiyat</item>
+        <item>El-Qari\'ah</item>
+        <item>Et-Takasur</item>
+        <item>El-\'Asr</item>
+        <item>El-Humaze</item>
+        <item>El-Fil</item>
+        <item>Kureyş</item>
+        <item>El-ma\'un</item>
+        <item>El-Kevsar</item>
+        <item>El-Kafirun</item>
+        <item>En-Nasr</item>
+        <item>El-Mesed</item>
+        <item>El-ihlas</item>
+        <item>El-Felaq</item>
+        <item>En-Nas</item>
+    </array>
+    <array name="theme_names">
+        <item>Beyaz</item>
+        <item>Siyah (gece modu)</item>
+        <item>Yeşil</item>
+        <item>Kahverengi</item>
+        <item>Koyu mavi</item>
+    </array>
+    <array name="tut_descs">
+        <item>İle Kur\'an anlayın Birden çok çeviri ve ibni kesir tefsiri</item>
+        <item>Renk kodlu Tecvid, Ses, Otomatik Kaydırma ve daha fazlası</item>
+        <item>Sözcüklere ve arama yeteneğine tıklandığında detay kelimesi analizi</item>
+        <item>değiştirmek temalar, yazı tipleri ve tutam zoom değiştirmek için Metin boyutu</item>
+    </array>
+    <array name="verb_form_names">
+        <item>Geçmiş zaman</item>
+        <item>Şimdi&amp;gelecek zaman</item>
+        <item>Emir</item>
+        <item>Fiili yapan</item>
+        <item>Fiili yaptıran</item>
+        <item>Masdar(kaynak)</item>
+    </array>
+</resources>

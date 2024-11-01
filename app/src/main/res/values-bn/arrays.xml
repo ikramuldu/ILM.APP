@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jumuah_special">
+        <item>ভালোভাবে গোসল করুন</item>
+        <item>সূরা কাহফ পাঠ করুন</item>
+        <item>সুগন্ধি লাগান</item>
+        <item>দু’আ করুন</item>
+        <item>বেশী বেশী দরূদ পড়ুন</item>
+    </string-array>
+    <string-array name="prayerNames">
+        <item>ফজর</item>
+        <item>সূর্যোদয় (হারাম)</item>
+        <item>ইশরাক, চাশত</item>
+        <item>জাওয়াল (হারাম)</item>
+        <item >@string/juhr</item>
+        <item>আসর</item>
+        <item>সুর্যাস্ত (হারাম)</item>
+        <item>মাগরিব, ইফতার</item>
+        <item>ঈশা</item>
+        <item>সাহরী, তাহাজ্জুদ</item>
+    </string-array>
+    <string-array name="isha_special">
+        <item>তাহাজ্জুদের নিয়ত রাখুন</item>
+        <item>রাতে তাড়াতাড়ি ঘুমিয়ে পড়ুন</item>
+        <item>ওজু করে ঘুমান</item>
+        <item>ঘুমানোর দোআ পরে শুতে যান</item>
+        <item>সবাইকে মাফ করে দিন</item>
+    </string-array>
+
+    <array name="mushaf_names">
+        <item>উসমানী / মাদানী</item>
+        <item>ইন্দোপাক/এশিয়ান (বেটা)</item>
+    </array>
+    <array name="numerical">
+        <item>১ম পুরুষ</item>
+        <item>২য় পুরুষ</item>
+        <item>৩য় পুরুষ</item>
+        <item>একক বচন</item>
+        <item>দ্বি-বচন</item>
+        <item>বহুবচন</item>
+        <item>পুরুষবাচক</item>
+        <item>স্ত্রীবাচক</item>
+        <item>ক্রিয়াবাচক বিশেষ্য</item>
+        <item>ভাব বাচক বিশেষ্য বা বিশেষণ</item>
+        <item>সম্বন্ধপদীয়</item>
+        <item>কর্তৃপদ</item>
+        <item>সম্বন্ধসূচক</item>
+        <item>অনির্দিষ্ট</item>
+        <item>ত্রুটিহীন</item>
+        <item>ত্রুটিযুক্ত</item>
+        <item>অনুজ্ঞাসূচক</item>
+        <item>নির্দেশক</item>
+        <item>সংযোজক</item>
+        <item>আদেশমূলক</item>
+        <item>উপসর্গ</item>
+        <item>প্রত্যয়</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>দ্বিতীয়া-বিভক্তি</item>
+        <item>বিশেষণ</item>
+        <item>সংশোধনী পদ</item>
+        <item>উত্তরবাচক পদ</item>
+        <item>চরম না-বাচক পদ</item>
+        <item>কারণবাচক পদ</item>
+        <item>নিশ্চয়তাজ্ঞাপক পদ</item>
+        <item>অবস্থাগত পদ</item>
+        <item>Comitative পদ</item>
+        <item>শর্তবাচক পদ</item>
+        <item>সম্বন্ধসূচক অব্যায়</item>
+        <item>অবস্থানজ্ঞাপক সর্বনাম</item>
+        <item>নির্ধারক</item>
+        <item>জোরপ্রদান জ্ঞাপক পদ</item>
+        <item>সমতাবিধান পদ</item>
+        <item>পরামর্শবাচক পদ</item>
+        <item>বর্ণনাসূচক পদ</item>
+        <item>Exceptive পদ</item>
+        <item>ভবিষ্যতবাচক পদ</item>
+        <item>অনুজ্ঞাসূচক ক্রিয়াবাচক বিশেষ্য</item>
+        <item>অনুজ্ঞাসূচক লাম উপসর্গ</item>
+        <item>সূচনা পদ</item>
+        <item>কুরআনীয় অদ্যাক্ষর</item>
+        <item>ব্যাখ্যামূলক পদ</item>
+        <item>প্রশ্নসূচক পদ</item>
+        <item>অবস্থাজ্ঞাপক ক্রিয়াবিশেষণ</item>
+        <item>বিশেষ্য</item>
+        <item>না-বাচক পদ</item>
+        <item>অব্যয় পদ</item>
+        <item>নামবাচক বিশেষ্য</item>
+        <item>প্রতিরোধবাচক পদ</item>
+        <item>নিষেধবাচক পদ</item>
+        <item>ব্যাক্তিবাচক সর্বনাম</item>
+        <item>উদ্দেশ্যজ্ঞাপক লাম উপসর্গ</item>
+        <item>আপেক্ষিক সর্বনাম</item>
+        <item>পুনরারম্ভ পদ</item>
+        <item>সীমাবদ্ধতাসূচক পদ</item>
+        <item>প্রত্যাহারমূলক পদ</item>
+        <item>ফলাফলজ্ঞাপক পদ</item>
+        <item>Subordinating conjunction</item>
+        <item>প্রাসঙ্গিক পদ</item>
+        <item>বিস্ময়সূচক পদ</item>
+        <item>সময়জ্ঞাপক ক্রিয়া বিশেষণ</item>
+        <item>ক্রিয়া</item>
+        <item>সম্বোধনাত্মক কারক</item>
+        <item>বিশেষ্যবাচক ক্রিয়া</item>
+        <item>খেয়াল</item>
+        <item>দূরত্ব</item>
+        <item>ঠিকানা</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>এ ব্যপারে কুরাআনে কি আছে</item>
+        <item>এ ব্যপারে আল্লাহ কি বলছেন</item>
+        <item>এ ব্যপারে কুরআন কি বলছে</item>
+        <item>এ সম্পর্কে আয়াত</item>
+        <item>এ সম্পর্কে আয়াত</item>
+        <item>কুরআনের একটি চমকপ্রদ বিষয়</item>
+        <item>আজকের বিষয়</item>
+        <item>কুরআনে এ বিষয়ে দেখে নিন</item>
+        <item>কুরআন থেকে এ বিষয়ে জেনে নিন</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>আল্লাহকে স্মরণ করেছেন?</item>
+        <item>আল্লাহর প্রশংসা করেছেন?</item>
+        <item>আল্লাহকে স্মরণ করুন</item>
+        <item>একটু জিকির করে নিন</item>
+        <item>মনকে সতেজ করুন</item>
+        <item>আপনার রবকে স্মরণ করুন</item>
+        <item>আজকের আয়াত</item>
+        <item>একটি আয়াত পড়বেন কি?</item>
+        <item>আজকে একটি আয়াত শিখুন</item>
+        <item>দৈনিক আয়াত</item>
+        <item>একটি আয়াত শিখতে চান?</item>
+        <item>চলুন একটি আয়াত শিখি</item>
+        <item>আজকের জন্য একটি আয়াত</item>
+        <item>আয়াত পড়তে ক্লিক করুন</item>
+        <item>আল্লাহ আপনাকে কি বলছেন?</item>
+        <item>আজ আল্লাহ্‌র প্রশংসা করেছেন কি?</item>
+        <item>আল্লাহর সাথে কথা বলেছেন?</item>
+        <item>চলুন আল্লাহর কথা শুনি</item>
+        <item>আল্লাহ আপনাকে কি বলছেন?</item>
+        <item>আল্লাহর সাথে কথা বলেছেন?</item>
+    </array>
+    <array name="sura_translation">
+        <item>সূচনা</item>
+        <item>বকনা-বাছুর</item>
+        <item>ইমরানের পরিবার</item>
+        <item>নারী</item>
+        <item>খাদ্য পরিবেশিত টেবিল</item>
+        <item>গৃহপালিত পশু</item>
+        <item>উচু স্থান</item>
+        <item>যুদ্ধ-লব্ধ ধনসম্পদ</item>
+        <item>অনুশোচনা</item>
+        <item>নবী ইউনুস</item>
+        <item>নবী হুদ</item>
+        <item>নবী ইউসুফ</item>
+        <item>বজ্রপাত</item>
+        <item>নবী ইবরাহীম</item>
+        <item>পাথুরে পাহাড়</item>
+        <item>মৌমাছি</item>
+        <item>ইহুদি জাতি</item>
+        <item>গুহা</item>
+        <item>মারইয়াম (ঈসা নবীর মা)</item>
+        <item>ত়া হা</item>
+        <item>নবীগণ</item>
+        <item>হ়াজ্জ</item>
+        <item>বিশ্বাসী</item>
+        <item>আলো</item>
+        <item>মানদণ্ড</item>
+        <item>কবি</item>
+        <item>পিঁপড়া</item>
+        <item>কাহিনি</item>
+        <item>মাকড়শা</item>
+        <item>রোমান জাতি</item>
+        <item>এক জ্ঞানী ব্যাক্তি</item>
+        <item>সিজদা</item>
+        <item>জোট</item>
+        <item>রানী সাবা/শেবা</item>
+        <item>আদি স্রষ্টা</item>
+        <item>ইয়াসীন</item>
+        <item>সারিবদ্ধভাবে দাঁড়ানো</item>
+        <item>আরবি বর্ণ সাদ</item>
+        <item>দলবদ্ধ জনতা</item>
+        <item>ক্ষমাকারী</item>
+        <item>সুস্পষ্ট বিবরণ</item>
+        <item>পরামর্শ</item>
+        <item>সোনাদানা</item>
+        <item>ধোঁয়া</item>
+        <item>নতজানু</item>
+        <item>বালুর পাহাড়</item>
+        <item>নবী মুহাম্মদ</item>
+        <item>বিজয়</item>
+        <item>আবাস</item>
+        <item>কাফ</item>
+        <item>বিক্ষেপকারী বাতাস</item>
+        <item>পাহাড়</item>
+        <item>তারা</item>
+        <item>চাঁদ</item>
+        <item>পরম করুণাময়</item>
+        <item>নিশ্চিত ঘটনা</item>
+        <item>লোহা</item>
+        <item>অনুযোগকারিণী</item>
+        <item>সমাবেশ</item>
+        <item>নারী, যাকে পরীক্ষা করা হবে</item>
+        <item>সারিবদ্ধ সৈন্যদল</item>
+        <item>সম্মেলন/শুক্রবার</item>
+        <item>ভণ্ড বিশ্বাসী</item>
+        <item>মোহ অপসারণ</item>
+        <item>তালাক</item>
+        <item>নিষিদ্ধকরণ</item>
+        <item>সার্বভৌম কর্তৃত্ব</item>
+        <item>কলম</item>
+        <item>নিশ্চিত সত্য</item>
+        <item>উন্নয়নের সোপান</item>
+        <item>নবী নূহ</item>
+        <item>জিন সম্প্রদায়</item>
+        <item>বস্ত্রাচ্ছাদনকারী</item>
+        <item>পোশাক পরিহিত</item>
+        <item>পুনরুত্থান</item>
+        <item>মানবজাতি</item>
+        <item>প্রেরিত পুরুষ</item>
+        <item>মহাসংবাদ</item>
+        <item>প্রচেষ্টাকারী</item>
+        <item>সে ভ্রু কুঁচকালো</item>
+        <item>অন্ধকারাচ্ছন্ন</item>
+        <item>বিদীর্ণ করা</item>
+        <item>প্রতারণা করা</item>
+        <item>খণ্ড-বিখণ্ডকরণ</item>
+        <item>নক্ষত্রপুঞ্জ</item>
+        <item>রাতের আগন্তুক</item>
+        <item>সর্বোন্নত</item>
+        <item>বিহ্বলকর ঘটনা</item>
+        <item>ভোরবেলা</item>
+        <item>নগর</item>
+        <item>সূর্য</item>
+        <item>রাত</item>
+        <item>পূর্বাহ্নের সুর্যকিরণ</item>
+        <item>বক্ষ প্রশস্তকরণ</item>
+        <item>ডুমুর</item>
+        <item>রক্তপিণ্ড</item>
+        <item>মহিমান্বিত</item>
+        <item>প্রমাণ</item>
+        <item>ভূমিকম্প</item>
+        <item>অভিযানকারী</item>
+        <item>মহাসংকট</item>
+        <item>প্রাচুর্যের প্রতিযোগিতা</item>
+        <item>সময়</item>
+        <item>পরনিন্দাকারী</item>
+        <item>হাতি</item>
+        <item>কুরাইশ গোত্র</item>
+        <item>সাহায্য সহায়তা</item>
+        <item>কাউসার/প্রাচুর্য</item>
+        <item>অবিশ্বাসী</item>
+        <item>সাহায্য</item>
+        <item>খেজুরের পাকানো (রশি)</item>
+        <item>আন্তরিকতা</item>
+        <item>নিশিভোর</item>
+        <item>মানুষ জাতি</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>আল-ফাতিহা</item>
+        <item>আল-বাকারাহ</item>
+        <item>আলি ‘ইমরান</item>
+        <item>আন নিসা</item>
+        <item>আল-মা’ইদাহ</item>
+        <item>আল-আন‘আম</item>
+        <item>আল-আ‘রাফ</item>
+        <item>আল-আনফাল</item>
+        <item>আত-তাওবাহ</item>
+        <item>ইউনুস</item>
+        <item>হুদ</item>
+        <item>ইউসুফ</item>
+        <item>রা’দ</item>
+        <item>ইবরাহীম</item>
+        <item>আল-হিজ্‌র</item>
+        <item>আন-নাহ্‌ল</item>
+        <item>বানু ইসরাঈল</item>
+        <item>আল-কাহ্‌ফ</item>
+        <item>মারইয়াম</item>
+        <item>তাহা</item>
+        <item>আল-আম্বিয়া</item>
+        <item>আল-হাজ্জ</item>
+        <item>আল-মু’মিনূন</item>
+        <item>আন-নূর</item>
+        <item>আল-ফুরকান</item>
+        <item>আশ-শু‘আরা</item>
+        <item>আন-নাম্‌ল</item>
+        <item>আল-কাসাস</item>
+        <item>আল-আনকাবূত</item>
+        <item>আর-রূম</item>
+        <item>লুকমান</item>
+        <item>আস-সিজদাহ</item>
+        <item>আল-আহযাব</item>
+        <item>সাবা</item>
+        <item>ফাতির</item>
+        <item>ইয়াসীন</item>
+        <item>আস-সাফফাত</item>
+        <item>সাদ</item>
+        <item>আয-যুমার</item>
+        <item>গাফির</item>
+        <item>ফুসসিলাত (হা-মীম সিজদাহ)</item>
+        <item>আশ-শুরা</item>
+        <item>আয-যুখরুফ</item>
+        <item>আদ-দুখান</item>
+        <item>আল-জাসিয়া</item>
+        <item>আল-আহকাফ</item>
+        <item>মুহাম্মাদ</item>
+        <item>আল-ফাত্‌হ</item>
+        <item>আল-হুজরাত</item>
+        <item>কাফ</item>
+        <item>আয-যারিয়াত</item>
+        <item>আত-তূর</item>
+        <item>আন-নাজ্‌ম</item>
+        <item>আল-কামার</item>
+        <item>আর-রহমান</item>
+        <item>আল-ওয়াকিয়া</item>
+        <item>আল-হাদীদ</item>
+        <item>আল-মুজাদালাহ</item>
+        <item>আল-হাশ্‌র</item>
+        <item>আল-মুমতাহিনা</item>
+        <item>আস-সফ</item>
+        <item>আল-জুমু‘আহ</item>
+        <item>আল-মুনাফিকূন</item>
+        <item>আত-তাগাবুন</item>
+        <item>আত-তালাক</item>
+        <item>আত-তাহরীম</item>
+        <item>আল-মুল্‌ক</item>
+        <item>আল-কালাম</item>
+        <item>আল-হাক্কাহ</item>
+        <item>আল-মা’আরিজ</item>
+        <item>নূহ</item>
+        <item>আল-জিন</item>
+        <item>আল-মুযযামমিল</item>
+        <item>আল-মুদ্দাসসির</item>
+        <item>আল-কিয়ামাহ</item>
+        <item>আল-ইনসান</item>
+        <item>আল-মুরসালাত</item>
+        <item>আন-নাবা</item>
+        <item>আন-নযি‘আত</item>
+        <item>‘আবাসা</item>
+        <item>আত-তাকউইর</item>
+        <item>আল-ইনফিতার</item>
+        <item>আত-মুতাফ্‌ফিফীন</item>
+        <item>আল-ইনশিকাক</item>
+        <item>আল-বুরূজ</item>
+        <item>আত-তারিক</item>
+        <item>আল-আ‘লা</item>
+        <item>আল-গাশিয়াহ</item>
+        <item>আল-ফাজ্‌র</item>
+        <item>আল-বালাদ</item>
+        <item>আশ-শাম্‌স</item>
+        <item>আল-লাইল</item>
+        <item>আদ-দুহা</item>
+        <item>আশ-শার্‌হ</item>
+        <item>আত-তীন</item>
+        <item>আল-‘আলাক</item>
+        <item>আল-কাদ্‌র</item>
+        <item>আল-বাইয়্যিনাহ</item>
+        <item>আয-যিলযাল</item>
+        <item>আল-‘আদিয়াত</item>
+        <item>আল-কারিয়াহ</item>
+        <item>আত-তাকাসুর</item>
+        <item>আল-‘আস্‌র</item>
+        <item>আল-হুমাযাহ</item>
+        <item>আল-ফীল</item>
+        <item>কুরাইশ</item>
+        <item>আল-মা‘ঊন</item>
+        <item>আল-কাউসার</item>
+        <item>আল-কাফিরূন</item>
+        <item>আন-নাস্‌র</item>
+        <item>আল-মাসাদ</item>
+        <item>আল-ইখলাস</item>
+        <item>আল-ফালাক</item>
+        <item>আন-নাস</item>
+    </array>
+    <array name="theme_names">
+        <item>সাদা</item>
+        <item>কালো (রাত)</item>
+        <item>সবুজ</item>
+        <item>বাদামী</item>
+        <item>গাঢ় নীল</item>
+    </array>
+    <array name="tut_descs">
+        <item>একাধিক অনুবাদ ও তাফসীর ইবনে কাসির দিয়ে কুরআন বুঝুন</item>
+        <item>তাজউইদ নির্দেশক, অডিও, অটোস্ক্রলসহ আরও অনেককিছু</item>
+        <item>প্রতিটি শব্দের উপর ক্লিক করে বিস্তারিত শব্দ বিশ্লেষণ এবং অনুসন্ধান করুন</item>
+        <item>থিম ও ফন্ট পরিবর্তন এবং দুই আঙ্গুলের সাহায্যে লেখার আকার ছোট-বড় করা যায়</item>
+    </array>
+    <array name="verb_form_names">
+        <item>অতীত কাল</item>
+        <item>বর্তমান/ভবিষ্যত কাল</item>
+        <item>আদেশ মূলক</item>
+        <item>কর্তা</item>
+        <item>কর্ম</item>
+        <item>ক্রিয়াবাচক বিশেষ্য</item>
+    </array>
+</resources>

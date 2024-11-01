@@ -1,0 +1,148 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.base.dark" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:textColor">@color/textDark</item>
+        <item name="android:textSize">@dimen/def_text</item>
+    </style>
+
+    <style name="Theme.base.light" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textSize">@dimen/def_text</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+    </style>
+
+    <style name="ThemeWhite" parent="Theme.base.light">
+        <item name="android:navigationBarColor">@color/primaryColorWhiteDark</item>
+        <item name="android:colorBackground">@color/bg_white</item>
+        <item name="android:windowBackground">@color/bg_white</item>
+        <item name="android:fastScrollTrackDrawable">@null</item>
+        <item name="android:fastScrollOverlayPosition">atThumb</item>
+        <item name="android:fastScrollTextColor">?attr/colorPrimary</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorError">@color/errorColor</item>
+        <item name="colorOnError">@color/neutral0</item>
+        <item name="colorOnSecondary">@color/neutral0</item>
+        <item name="colorPrimary">@color/primaryColorWhite</item>
+        <item name="colorPrimaryDark">@color/primaryColorWhiteDark</item>
+        <item name="colorPrimaryVariant">@color/primaryColorWhiteDark</item>
+        <item name="colorSecondary">@color/secondaryColorWhite</item>
+        <item name="colorSecondaryVariant">@color/secondaryColorWhiteDark</item>
+        <item name="colorSurface">@color/bg_white</item>
+        <item name="active">@color/primaryColorWhiteLight</item>
+        <item name="inactive">@color/odd_item_bg_white</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="tab_text">@color/white_tab</item>
+    </style>
+
+    <style name="ThemeBlack" parent="Theme.base.dark">
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:windowBackground">@color/odd_item_bg_black</item>
+        <item name="android:fastScrollTrackDrawable">@null</item>
+        <item name="android:fastScrollOverlayPosition">atThumb</item>
+        <item name="android:fastScrollTextColor">?attr/colorPrimary</item>
+        <item name="backgroundColor">@color/bg_black</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorPrimary">@color/Primary2</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorError">@color/errorColor</item>
+        <item name="colorOnError">#fff</item>
+        <item name="colorOnPrimary">@color/neutral0</item>
+        <item name="colorOnSecondary">@color/neutral0</item>
+        <item name="colorPrimarySurface">@color/bg_black</item>
+        <item name="colorSurface">@color/bg_black</item>
+        <item name="active">@color/primaryColorBlackLight</item>
+        <item name="inactive">@color/black</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat</item>
+        <item name="tab_text">@color/black_tab</item>
+    </style>
+
+    <style name="ThemeBrown" parent="Theme.base.light">
+        <item name="android:navigationBarColor">@color/primaryColorBrownDark</item>
+        <item name="android:colorBackground">@color/bg_brown</item>
+        <item name="android:windowBackground">@color/bg_brown</item>
+        <item name="android:colorBackgroundCacheHint">@color/bg_brown</item>
+        <item name="android:fastScrollTrackDrawable">@null</item>
+        <item name="android:fastScrollOverlayPosition">atThumb</item>
+        <item name="android:fastScrollTextColor">?attr/colorPrimary</item>
+        <item name="colorAccent">@color/primaryColorBrown</item>
+        <item name="colorError">@color/errorColor</item>
+        <item name="colorOnError">@color/neutral0</item>
+        <item name="colorOnSecondary">@color/neutral0</item>
+        <item name="colorPrimary">@color/primaryColorBrown</item>
+        <item name="colorPrimaryDark">@color/primaryColorBrownDark</item>
+        <item name="colorPrimaryVariant">@color/primaryColorBrownDark</item>
+        <item name="colorSecondary">@color/secondaryColorBrown</item>
+        <item name="colorSecondaryVariant">@color/secondaryColorBrownDark</item>
+        <item name="colorSurface">@color/bg_brown</item>
+        <item name="active">@color/primaryColorBrownLight</item>
+        <item name="inactive">@color/odd_item_bg_brown</item>
+        <item name="tab_text">@color/white_tab</item>
+    </style>
+
+    <style name="ThemeDarkBlue" parent="Theme.base.dark">
+        <item name="android:navigationBarColor">@color/bg_dark_blue</item>
+        <item name="android:colorBackground">@color/bg_dark_blue</item>
+        <item name="android:windowBackground">@color/bg_dark_blue</item>
+        <item name="android:colorBackgroundCacheHint">@color/bg_dark_blue</item>
+        <item name="android:fastScrollTrackDrawable">@null</item>
+        <item name="android:fastScrollOverlayPosition">atThumb</item>
+        <item name="android:fastScrollTextColor">?attr/colorPrimary</item>
+        <item name="colorAccent">@color/primaryColorDarkBlue</item>
+        <item name="colorError">@color/errorColor</item>
+        <item name="colorOnError">@color/neutral0</item>
+        <item name="colorOnPrimary">@color/neutral0</item>
+        <item name="colorOnSecondary">@color/neutral0</item>
+        <item name="colorPrimary">@color/odd_item_bg_dark_blue</item>
+        <item name="colorPrimaryDark">@color/bg_dark_blue</item>
+        <item name="colorSurface">@color/bg_dark_blue</item>
+        <item name="active">@color/primaryColorDarkBlueLight</item>
+        <item name="inactive">@color/odd_item_bg_dark_blue</item>
+        <item name="tab_text">@color/black_tab</item>
+    </style>
+
+    <style name="ThemeGreen" parent="Theme.base.light">
+        <item name="android:navigationBarColor">@color/primaryColorGreenDark</item>
+        <item name="android:colorBackground">@color/bg_green</item>
+        <item name="android:windowBackground">@color/bg_green</item>
+        <item name="android:colorBackgroundCacheHint">@color/bg_green</item>
+        <item name="android:fastScrollTrackDrawable">@null</item>
+        <item name="android:fastScrollOverlayPosition">atThumb</item>
+        <item name="android:fastScrollTextColor">?attr/colorPrimary</item>
+        <item name="colorAccent">@color/secondaryColorBrown</item>
+        <item name="colorError">@color/errorColor</item>
+        <item name="colorOnBackground">@color/neutral9</item>
+        <item name="colorOnError">@color/neutral0</item>
+        <item name="colorOnPrimary">@color/neutral0</item>
+        <item name="colorOnSecondary">@color/neutral0</item>
+        <item name="colorPrimary">@color/primaryColorGreen</item>
+        <item name="colorPrimaryDark">@color/primaryColorGreenDark</item>
+        <item name="colorPrimaryVariant">@color/primaryColorGreenDark</item>
+        <item name="colorSecondary">@color/secondaryColorGreen</item>
+        <item name="colorSecondaryVariant">@color/secondaryColorGreenDark</item>
+        <item name="colorSurface">@color/bg_green</item>
+        <item name="active">@color/primaryColorGreenLight</item>
+        <item name="inactive">@color/odd_item_bg_green</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="tab_text">@color/white_tab</item>
+    </style>
+
+    <style name="darkBar">
+        <item name="android:textColorSecondary">@color/textDark</item>
+        <item name="titleTextColor">@color/textDark</item>
+    </style>
+
+    <style name="lightBar">
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+    <style name="TabStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textSize">@dimen/head_text</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/launcher</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/ThemeWhite</item>
+    </style>
+</resources>

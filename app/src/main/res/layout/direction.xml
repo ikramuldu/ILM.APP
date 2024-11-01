@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/compass"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:layout_marginTop="?attr/actionBarSize"
+    android:padding="@dimen/dp10"
+    android:adjustViewBounds="true"
+    android:src="@drawable/compass"
+    android:contentDescription="@string/direction" />

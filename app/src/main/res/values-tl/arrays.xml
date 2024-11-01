@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>Uthmani/Madani</item>
+        <item>IndoPak/Asian (Beta)</item>
+    </array>
+    <array name="numerical">
+        <item>Unang Tao</item>
+        <item>Pangalawang Tao</item>
+        <item>Pangatlong Tao</item>
+        <item>Pang-isahan</item>
+        <item>Pangdalawahan</item>
+        <item>Pangmaramihan</item>
+        <item>Panlalaki</item>
+        <item>Pambabae</item>
+        <item>Pandiwaring Tiyak (Aktibo)</item>
+        <item>Pandiwaring Balintiyak (Pasibo)</item>
+        <item>Dyenitibo</item>
+        <item>Nominatibo</item>
+        <item>Paari</item>
+        <item>Hindi tiyak</item>
+        <item>Perpekto</item>
+        <item>Imperpekto</item>
+        <item>Imperatibo</item>
+        <item>Pahiwatig</item>
+        <item>Pasakali</item>
+        <item>Jussibo</item>
+        <item>Unlapi</item>
+        <item>Hulapi</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>Akusatibong partikel</item>
+        <item>Pang-uri</item>
+        <item>Partikel na pasusog</item>
+        <item>Partikel na pasagot</item>
+        <item>Partikel na pa-ayaw</item>
+        <item>Partikel na padahilan</item>
+        <item>Partikel na patiyak</item>
+        <item>Partikel na sirkumstansyal</item>
+        <item>Komitatibong partikel</item>
+        <item>Kondisyonal Partikel</item>
+        <item>Tumutugmang pangatnig</item>
+        <item>Mapaglarawang panghalip</item>
+        <item>Pantukoy</item>
+        <item>Mariing unlaping laam</item>
+        <item>Partikel na pamareho</item>
+        <item>Partikel na pahikayat</item>
+        <item>Partikel na paliwanag</item>
+        <item>Partikel na pabukod</item>
+        <item>Partikel na panghinaharap</item>
+        <item>Pautos na pangngalang berbal</item>
+        <item>Pautos na unlaping laam</item>
+        <item>Partikel na panimula</item>
+        <item>Mga Quranik inisyal</item>
+        <item>Partikel na pakahulugan</item>
+        <item>Partikel na patanong</item>
+        <item>Pang-abay na panglugar</item>
+        <item>Pangngalan</item>
+        <item>Negatibong partikel</item>
+        <item>Pang-ukol</item>
+        <item>Pangngalang pantangi</item>
+        <item>Partikel na pahadlang</item>
+        <item>Partikel na pabawal</item>
+        <item>Personal na panghalip</item>
+        <item>Pasadyang unlaping laam</item>
+        <item>Kaugnay na panghalip</item>
+        <item>Partikel na pagpatuloy</item>
+        <item>Partikel na patakda</item>
+        <item>Partikel na pa-urong</item>
+        <item>Partikel na kinalabasan</item>
+        <item>Pantulong na pangatnig</item>
+        <item>Partikel na padagdag</item>
+        <item>Partikel na pabigla</item>
+        <item>Pang-abay na pamanahon</item>
+        <item>Pandiwa</item>
+        <item>Bokatibong partikel</item>
+        <item>Pandiwang Pangngalan</item>
+        <item>Paunawa</item>
+        <item>Distansiya</item>
+        <item>Tirahan</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>Gusto mo bang malaman ang tungkol [sa isang bagay] mula sa Quran?</item>
+        <item>Ano ang sinasabi ng Quran tungkol sa</item>
+        <item>Ano ang sinasabi ng Allah tungkol sa</item>
+        <item>Tungkol sa mga Ayah</item>
+        <item>Mga Ayah tungkol sa</item>
+        <item>Kawili-wiling paksa sa Quran</item>
+        <item>Paksa ngayong araw</item>
+        <item>Tingnan ito mula sa Quran</item>
+        <item>Pag-aralan ito mula sa Quran</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>Ayah ng araw</item>
+        <item>Ayah ngayong araw</item>
+        <item>May panahon ka bang bumasa ng isang Ayah?</item>
+        <item>Matuto ng isang Ayah ngayong araw</item>
+        <item>Araw-araw na Ayah</item>
+        <item>Gusto mo bang malaman ang isang Ayah?</item>
+        <item>Mag-aral tayo ng isang Ayah</item>
+        <item>Ayah para sa araw na ito</item>
+        <item>Nagbasa ka ba ng isang Ayah ngayong araw?</item>
+        <item>I-klik upang bumasa ng isang Ayah</item>
+        <item>Ano ang sinasabi ng Allah sa iyo?</item>
+        <item>Hayaang kausapin ka ni Allah ngayong araw</item>
+        <item>Nakipag-usap ka ba kay Allah ngayong araw?</item>
+        <item>Makipag-usap tayo kay Allah</item>
+        <item>Naalala mo ba si Allah ngayong araw?</item>
+        <item>Linuwalhati mo ba si Allah ngayong araw?</item>
+        <item>Alalahanin natin si Allah</item>
+        <item>Pagkain para sa kaluluwa</item>
+        <item>Oras upang panariwain ang aking isip</item>
+        <item>Alalahanin ang iyong Panginoon</item>
+    </array>
+    <array name="sura_translation">
+        <item>Ang Pambungad</item>
+        <item>Ang Baka</item>
+        <item>Ang Pamilyang Imran</item>
+        <item>Ang Mga Kababaihan</item>
+        <item>Ang Hapag-Kainan</item>
+        <item>Ang Bakahan</item>
+        <item>Ang Mga Tugatog</item>
+        <item>Ang Mga Samsam Sa Digmaan</item>
+        <item>Ang Pagsisisi</item>
+        <item>Propeta Jonas</item>
+        <item>Propeta Hud</item>
+        <item>Propeta Jose</item>
+        <item>Ang Kulog</item>
+        <item>Propeta Abraham</item>
+        <item>Ang Malaking Bato</item>
+        <item>Ang Bubuyog</item>
+        <item>Ang Gabing Paglalakbay</item>
+        <item>Ang Yungib</item>
+        <item>Mariya</item>
+        <item>Mga Titik \'Taa\' at \'Haa\'</item>
+        <item>Ang Mga Propeta</item>
+        <item>Ang Pagdalaw</item>
+        <item>Ang Mga Mananampalataya</item>
+        <item>Ang Liwanag</item>
+        <item>Ang Pamantayan</item>
+        <item>Ang Mga Makata</item>
+        <item>Ang Langgam</item>
+        <item>Ang Mga Kuwento</item>
+        <item>Ang Gagamba</item>
+        <item>Ang Mga Romano</item>
+        <item>Luqman</item>
+        <item>Ang Pagtirapa</item>
+        <item>Ang Mga Kapisanan</item>
+        <item>Ang Lungsod Ng Sheba</item>
+        <item>Ang Tagapasimula</item>
+        <item>Mga Titik &quot;Ya&quot; at &quot;Sin&quot;</item>
+        <item>Sila Na Mga Nakahilera</item>
+        <item>Ang Titik \'Saad\'</item>
+        <item>Ang Mga Pangkat</item>
+        <item>Ang Tagapagpatawad</item>
+        <item>Ipinaliwanag Sa Detalye</item>
+        <item>Ang Sanggunian</item>
+        <item>Mga Palamuting Ginto</item>
+        <item>Ang Usok</item>
+        <item>Ang Pagyuko</item>
+        <item>Ang Mga Lambak Na Buhangin</item>
+        <item>Propeta Muhammad ﷺ</item>
+        <item>Ang Tagumpay</item>
+        <item>Ang Mga Loobang Kuwarto</item>
+        <item>Ang Titik &quot;Qaf&quot;</item>
+        <item>Ang Mga Hanging Nagtatahip</item>
+        <item>Ang Bundok</item>
+        <item>Ang Bituin</item>
+        <item>Ang Buwan</item>
+        <item>Ang Pinakamaawain</item>
+        <item>Ang Matinding Pangyayari</item>
+        <item>Ang Bakal</item>
+        <item>Ang Babaeng Nagsusumamo</item>
+        <item>Ang Pagpapatapon</item>
+        <item>Ang Babaeng Susuriin</item>
+        <item>Ang Mga Antas</item>
+        <item>Araw Ng Biyernes</item>
+        <item>Ang Mga Mapagkunwari</item>
+        <item>Maling Akala Sa Isa\'t Isa</item>
+        <item>Ang Diborsyo</item>
+        <item>Ang Pagbabawal</item>
+        <item>Ang Kaharian</item>
+        <item>Ang Panulat</item>
+        <item>Ang Katotohanan</item>
+        <item>Ang Hagdang Paakyat</item>
+        <item>Propeta Noa</item>
+        <item>Ang Jinn</item>
+        <item>Ang Isang Nakabalot</item>
+        <item>Ang Isang Nakabalabal</item>
+        <item>Ang Muling Pagkabuhay</item>
+        <item>Ang Tao</item>
+        <item>Ang Mga Sugo</item>
+        <item>Ang Pahayag</item>
+        <item>Sila Na Kumakaladkad</item>
+        <item>Nangunot-noo</item>
+        <item>Ang Panlulupig</item>
+        <item>Ang Pagbibiyak</item>
+        <item>Ang Pandaraya</item>
+        <item>Ang Pagkakahati</item>
+        <item>Ang Mga Bituin</item>
+        <item>Ang Umagang Bituin</item>
+        <item>Ang Pinakamataas</item>
+        <item>Ang Kakila-kilabot</item>
+        <item>Ang Bukang Liwayway</item>
+        <item>Ang Lungsod</item>
+        <item>Ang Init (Araw)</item>
+        <item>Ang Gabi</item>
+        <item>Ang Mga Oras Sa Umaga</item>
+        <item>Ang Pampalubag-loob</item>
+        <item>Ang Igos</item>
+        <item>Ang Namuong Dugo</item>
+        <item>Ang Kapangyarihan, Ang Tadhana</item>
+        <item>Ang Katibayan</item>
+        <item>Ang Lindol</item>
+        <item>Ang Mga Kabayong Pandigma</item>
+        <item>Ang Kasamaang-palad</item>
+        <item>Ang Paligsahan</item>
+        <item>Ang Lumulubog Na Araw, Ang Panahon</item>
+        <item>Ang Maninirang-puri</item>
+        <item>Ang Elepante</item>
+        <item>Tribung Quraysh</item>
+        <item>Ang Pagbibigay-tulong</item>
+        <item>Ang Kasaganaan</item>
+        <item>Ang Mga Di-mananampalataya</item>
+        <item>Ang Banal Na Tulong</item>
+        <item>Ang Hibla Ng Palmera</item>
+        <item>Ang Kadalisayan</item>
+        <item>Ang Madaling Araw</item>
+        <item>Ang Sangkatauhan</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>Al-Fatihah</item>
+        <item>Al-Baqarah</item>
+        <item>Ali \'Imran</item>
+        <item>An-Nisa\'</item>
+        <item>Al-Ma\'idah</item>
+        <item>Al-An\'am</item>
+        <item>Al-A\'raf</item>
+        <item>Al-Anfal</item>
+        <item>At-Tawbah</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Ar-Ra\'d</item>
+        <item>Ibrahim</item>
+        <item>Al-Hijr</item>
+        <item>An-Nahl</item>
+        <item>Al-Isra\'</item>
+        <item>Al-Kahf</item>
+        <item>Maryam</item>
+        <item>Ta Ha</item>
+        <item>Al-Anbiya</item>
+        <item>Al-Hajj</item>
+        <item>Al-Mu\'minun</item>
+        <item>An-Nur</item>
+        <item>Al-Furqan</item>
+        <item>Ash-Shu\'ara\'</item>
+        <item>An-Naml</item>
+        <item>Al-Qasas</item>
+        <item>Al-\'Ankabut</item>
+        <item>Ar-Rum</item>
+        <item>Luqman</item>
+        <item>As-Sajdah</item>
+        <item>Al-Ahzab</item>
+        <item>Saba\'</item>
+        <item>Fatir</item>
+        <item>Ya Sin</item>
+        <item>As-Saffat</item>
+        <item>Sad</item>
+        <item>Az-Zumar</item>
+        <item>Ghafir</item>
+        <item>Fussilat</item>
+        <item>Ash-Shura</item>
+        <item>Az-Zukhruf</item>
+        <item>Ad-Dukhan</item>
+        <item>Al-Jathiyah</item>
+        <item>Al-Ahqaf</item>
+        <item>Muhammad</item>
+        <item>Al-Fath</item>
+        <item>Al-Hujurat</item>
+        <item>Qaf</item>
+        <item>Adh-Dhariyat</item>
+        <item>At-Tur</item>
+        <item>An-Najm</item>
+        <item>Al-Qamar</item>
+        <item>Ar-Rahman</item>
+        <item>Al-Waqi\'ah</item>
+        <item>Al-Hadid</item>
+        <item>Al-Mujadilah</item>
+        <item>Al-Hashr</item>
+        <item>Al-Mumtahanah</item>
+        <item>As-Saf</item>
+        <item>Al-Jumu\'ah</item>
+        <item>Al-Munafiqun</item>
+        <item>At-Taghabun</item>
+        <item>At-Talaq</item>
+        <item>At-Tahrim</item>
+        <item>Al-Mulk</item>
+        <item>Al-Qalam</item>
+        <item>Al-Haqqah</item>
+        <item>Al-Ma\'arij</item>
+        <item>Nuh</item>
+        <item>Al-Jinn</item>
+        <item>Al-Muzzammil</item>
+        <item>Al-Muddaththir</item>
+        <item>Al-Qiyamah</item>
+        <item>Al-Insan</item>
+        <item>Al-Mursalat</item>
+        <item>An-Naba\'</item>
+        <item>An-Nazi\'at</item>
+        <item>\'Abasa</item>
+        <item>At-Takwir</item>
+        <item>Al-Infitar</item>
+        <item>Al-Mutaffifin</item>
+        <item>Al-Inshiqaq</item>
+        <item>Al-Buruj</item>
+        <item>At-Tariq</item>
+        <item>Al-A\'la</item>
+        <item>Al-Ghashiyah</item>
+        <item>Al-Fajr</item>
+        <item>Al-Balad</item>
+        <item>Ash-Shams</item>
+        <item>Al-Layl</item>
+        <item>Ad-Duha</item>
+        <item>Ash-Sharh</item>
+        <item>At-Tin</item>
+        <item>Al-\'Alaq</item>
+        <item>Al-Qadr</item>
+        <item>Al-Bayyinah</item>
+        <item>Az-Zalzalah</item>
+        <item>Al-\'Adiyat</item>
+        <item>Al-Qari\'ah</item>
+        <item>At-Takathur</item>
+        <item>Al-\'Asr</item>
+        <item>Al-Humazah</item>
+        <item>Al-Fil</item>
+        <item>Quraish</item>
+        <item>Al-Ma\'un</item>
+        <item>Al-Kawthar</item>
+        <item>Al-Kafirun</item>
+        <item>An-Nasr</item>
+        <item>Al-Masad</item>
+        <item>Al-Ikhlas</item>
+        <item>Al-Falaq</item>
+        <item>An-Nas</item>
+    </array>
+    <array name="theme_names">
+        <item>Puti</item>
+        <item>Itim (Gabi)</item>
+        <item>Berde</item>
+        <item>Kayumanggi</item>
+        <item>Matingkad na Asul</item>
+    </array>
+    <array name="tut_descs">
+        <item>Intindihin ang Quran sa maramihang salinwika at Tafsir Ibn Kathir</item>
+        <item>Kinulayang sistema ng Tajwid, Awdyo, Awto-eskrol, atbp.</item>
+        <item>Sa pag-klik ng kataga ay may detalyadong analisis nito at kakayahang maghanap</item>
+        <item>Palitan ang mga tema, mga font at pinch-zoom upang palitan ang laki ng teksto</item>
+    </array>
+    <array name="verb_form_names">
+        <item>Perpektong Panahunan</item>
+        <item>Imperpektong Panahunan</item>
+        <item>Pautos</item>
+        <item>Aktibong Pandiwari</item>
+        <item>Pasibong Pandiwari</item>
+        <item>Anyong Pangngalan</item>
+    </array>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/arabic"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:layout_weight="1"
+        android:fontFamily="@font/kalpurush"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:padding="@dimen/dp5" />
+
+    <TextView
+        android:id="@+id/bangla"
+        android:layout_width="0dp"
+        android:fontFamily="@font/kalpurush"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:layout_weight="1"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:padding="@dimen/dp5" />
+
+    <TextView
+        android:id="@+id/english"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:background="@drawable/border"
+        android:gravity="center"
+        android:padding="@dimen/dp5" />
+</LinearLayout>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>عوسمانی</item>
+        <item>IndoPak/Asian (بێتا)</item>
+    </array>
+    <array name="numerical">
+        <item>کەسی یەکەم</item>
+        <item>کەسی دووەم </item>
+        <item>کەسی سێیەم</item>
+        <item>تاك</item>
+        <item>دووانە</item>
+        <item>کۆ</item>
+        <item>پیاوانە</item>
+        <item>ژنانە</item>
+        <item>کرداری چالاک</item>
+        <item>کرداری نادیار</item>
+        <item>فرمانی زیادکراو</item>
+        <item>شێوگی بکەر</item>
+        <item>خاوەندارێتی</item>
+        <item>نەناس</item>
+        <item>نایاب</item>
+        <item>ناتەواو</item>
+        <item>داخوازی</item>
+        <item>دەرخەر</item>
+        <item>ئەگەری</item>
+        <item>شاراوە</item>
+        <item>پێشگر</item>
+        <item>پاشگر</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>تەنۆلکەی خۆیی</item>
+        <item>ئاوەڵناو</item>
+        <item>تەنۆلکەی هەموارکردن</item>
+        <item>وەڵامی تەنۆلکە</item>
+        <item>تەنۆلکەی ڕەق</item>
+        <item>هۆکاری بچووک</item>
+        <item>گومانی بچووک</item>
+        <item>بارودۆحی بەش بەش</item>
+        <item>بەشی کۆمیتانتیڤ</item>
+        <item>مەرجی بچووک</item>
+        <item>ڕێکخستنی هاوبەش</item>
+        <item>ڕاناوی هاوسۆزی</item>
+        <item>بڕیاردەر</item>
+        <item>لامی دووپاتکردنەوە</item>
+        <item>بەشی هاوسەنگی</item>
+        <item>بەشی ئامۆژگاری</item>
+        <item>بەشی ڕوونکردنەوە</item>
+        <item>بەشی ئیکسیڤ</item>
+        <item>ڕاناوی داهاتوو</item>
+        <item>ملێی ووتراوی ناو ڕێزمان</item>
+        <item>لامی پێشگر</item>
+        <item>بەشی ئینسێتڤ</item>
+        <item>قورئانی سەرەتایی</item>
+        <item>بەشی لێکدانەوە</item>
+        <item>بەشی ئینترۆ گاتیڤ</item>
+        <item>ئاوەڵفرمانى شوێن</item>
+        <item>ناو</item>
+        <item>بەشی نێگەتیڤ</item>
+        <item>پرێپۆزەیشن</item>
+        <item>ڕێزمانی لەبار</item>
+        <item>بەشی پاراستن</item>
+        <item>بەشی قەدەغەکردنەکان</item>
+        <item>ڕاناوى كەسى</item>
+        <item>لامی پێشگری مەبەست</item>
+        <item>ڕاناوى ڕێژەيى</item>
+        <item>بەشی دەستپێکرنەوەکان</item>
+        <item>بەشی سنوردارکردنەکان</item>
+        <item>بەشی خوێندنەوە</item>
+        <item>بەشی ئەنجام</item>
+        <item>بەڕێوەبەری هاوبەش</item>
+        <item>بەشی زیادە</item>
+        <item>بەشی سەرسوڕمان</item>
+        <item>فرمانی کاتی</item>
+        <item>فرمان</item>
+        <item>بەشی کەم</item>
+        <item>فەرمانی ڕێزمانی</item>
+        <item>ئاگادارکردنەوە</item>
+        <item>مەودا</item>
+        <item>ناونیشان</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>دەتەوێ لەبارەی قورئانەوە شتێک بزانیت؟</item>
+        <item>چی دەڵێیت دەربارەی قورئان</item>
+        <item>چی دەڵێی دەربارەی اللە</item>
+        <item>دەربارەی ئایەتەکان</item>
+        <item>دەربارەی بەشەکان</item>
+        <item>بابەتى سەرنجڕاكێش لە قورئان</item>
+        <item>بابەتەکانی/ئەمڕۆ</item>
+        <item>ئەمە لەدەرەوەی قورئان بپشکنە</item>
+        <item>لەم قورئانەوە فێربە</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>ئایەتی ڕۆژانە</item>
+        <item>ئایەتی ئەمڕۆ</item>
+        <item>گرنگی ئەدەی بە خوێندنی ئایەتێک؟</item>
+        <item>ئایەتێک فێربە ئەمڕۆ</item>
+        <item>ئایەتی ڕۆژانە</item>
+        <item>ئەتەوێ ئایەتێک بزانیت؟</item>
+        <item>فێری ئایەتێک ببە</item>
+        <item>ئایەتی ئەمڕۆ</item>
+        <item>ئایەتێکت خوێند ئەمڕۆ؟</item>
+        <item>پەنجەی پێدابنێ بۆ خوێندنی ئایەتێک</item>
+        <item>خوا چیت پێ ئەڵێ؟</item>
+        <item>با خوای گەورە ئەمڕۆ قسەت لەگەڵ بکات</item>
+        <item>قسەت لەگەڵ خوای گەورە کردووە ئەمڕۆ؟</item>
+        <item>با قسە لەگەڵ خوا بکەین</item>
+        <item>بیرت لە خوا کردەوە ئەمڕۆ؟</item>
+        <item>ئەمڕۆ ستایشی خودات کرد؟</item>
+        <item>یادی خودا کردنەوە</item>
+        <item>خۆراکی ڕۆح</item>
+        <item>کات تا هۆشىم ببووژێنێتەوە</item>
+        <item>یادی خودا بکە</item>
+    </array>
+    <array name="sura_translation">
+        <item>سورة الفاتحة</item>
+        <item>سورة البقرة</item>
+        <item>سورة آل عمران</item>
+        <item>سورة النساء</item>
+        <item>سورة المائدة</item>
+        <item>سورة الأنعام</item>
+        <item>سورة الأعراف</item>
+        <item>سورة الأنفال</item>
+        <item>سورة التوبة</item>
+        <item>سورة يونس</item>
+        <item>سورة هود</item>
+        <item>سورة يوسف</item>
+        <item>سورة الرعد</item>
+        <item>سورة إبراهيم</item>
+        <item>سورة الحجر</item>
+        <item>سورة النحل</item>
+        <item>سورة الإسراء</item>
+        <item>سورة الكهف</item>
+        <item>سورة مريم</item>
+        <item>سورة طه</item>
+        <item>سورة الأنبياء</item>
+        <item>سورة الحج</item>
+        <item>سورة المؤمنون</item>
+        <item>سورة النّور</item>
+        <item>سورة الفرقان</item>
+        <item>سورة الشعراء</item>
+        <item>سورة النّمل</item>
+        <item>سورة القصص</item>
+        <item>سورة العنكبوت</item>
+        <item>سورة الرّوم</item>
+        <item>سورة لقمان</item>
+        <item>سورة السجدة</item>
+        <item>سورة الأحزاب</item>
+        <item>سورة سبأ</item>
+        <item>سورة فاطر</item>
+        <item>سورة يس</item>
+        <item>سورة الصافات</item>
+        <item>سورة ص</item>
+        <item>سورة الزمر</item>
+        <item>سورة غافر</item>
+        <item>سورة فصّلت</item>
+        <item>سورة الشورى</item>
+        <item>سورة الزخرف</item>
+        <item>سورة الدّخان</item>
+        <item>سورة الجاثية</item>
+        <item>سورة الأحقاف</item>
+        <item>سورة محمد</item>
+        <item>سورة الفتح</item>
+        <item>سورة الحجرات</item>
+        <item>سورة ق</item>
+        <item>سورة الذاريات</item>
+        <item>سورة الطور</item>
+        <item>سورة النجم</item>
+        <item>سورة القمر</item>
+        <item>سورة الرحمن</item>
+        <item>سورة الواقعة</item>
+        <item>سورة الحديد</item>
+        <item>سورة المجادلة</item>
+        <item>سورة الحشر</item>
+        <item>سورة الممتحنة</item>
+        <item>سورة الصف</item>
+        <item>سورة الجمعة</item>
+        <item>سورة المنافقون</item>
+        <item>سورة التغابن</item>
+        <item>سورة الطلاق</item>
+        <item>سورة التحريم</item>
+        <item>سورة الملك</item>
+        <item>سورة القلم</item>
+        <item>سورة الحاقة</item>
+        <item>سورة المعارج</item>
+        <item>سورة نوح</item>
+        <item>سورة الجن</item>
+        <item>سورة المزّمّل</item>
+        <item>سورة المدّثر</item>
+        <item>سورة القيامة</item>
+        <item>سورة الإنسان</item>
+        <item>سورة المرسلات</item>
+        <item>سورة النبأ</item>
+        <item>سورة النازعات</item>
+        <item>سورة عبس</item>
+        <item>سورة التكوير</item>
+        <item>سورة الإنفطار</item>
+        <item>سورة المطفّفين</item>
+        <item>سورة الإنشقاق</item>
+        <item>سورة البروج</item>
+        <item>سورة الطارق</item>
+        <item>سورة الأعلى</item>
+        <item>سورة الغاشية</item>
+        <item>سورة الفجر</item>
+        <item>سورة البلد</item>
+        <item>سورة الشمس</item>
+        <item>سورة الليل</item>
+        <item>سورة الضحى</item>
+        <item>سورة الشرح</item>
+        <item>سورة التين</item>
+        <item>سورة العلق</item>
+        <item>سورة القدر</item>
+        <item>سورة البينة</item>
+        <item>سورة الزلزلة</item>
+        <item>سورة العاديات</item>
+        <item>سورة القارعة</item>
+        <item>سورة التكاثر</item>
+        <item>سورة العصر</item>
+        <item>سورة الهمزة</item>
+        <item>سورة الفيل</item>
+        <item>سورة قريش</item>
+        <item>سورة الماعون</item>
+        <item>سورة الكوثر</item>
+        <item>سورة الكافرون</item>
+        <item>سورة النصر</item>
+        <item>سورة المسد</item>
+        <item>سورة الإخلاص</item>
+        <item>سورة الفلق</item>
+        <item>سورة النّاس</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>سورة الفاتحة</item>
+        <item>سورة البقرة</item>
+        <item>سورة آل عمران</item>
+        <item>سورة النساء</item>
+        <item>سورة المائدة</item>
+        <item>سورة الأنعام</item>
+        <item>بەرزایی</item>
+        <item>ئەنفال</item>
+        <item>پەشیمانی</item>
+        <item>یونس</item>
+        <item>هود</item>
+        <item>یوسف</item>
+        <item>هەورە بروسکە</item>
+        <item>ئیبراهیم</item>
+        <item>بەردەڵان</item>
+        <item>هەنگ</item>
+        <item>گەشتی شەو</item>
+        <item>ئەشکەوت</item>
+        <item>مەریەم</item>
+        <item>تەها</item>
+        <item>پێغەمبەران</item>
+        <item>حەج</item>
+        <item>باوەڕدارن</item>
+        <item>ڕووناکی</item>
+        <item>پێوانە</item>
+        <item>شاعیر</item>
+        <item>مێروولە</item>
+        <item>چیرۆک</item>
+        <item>جاڵجاڵۆکە</item>
+        <item>ڕۆم</item>
+        <item>لوقمان</item>
+        <item>سوژدە</item>
+        <item>تیرە</item>
+        <item>شەبا</item>
+        <item>داهێنەر</item>
+        <item>یاسین</item>
+        <item>پلەداران</item>
+        <item>ساد</item>
+        <item>قەرەباڵغ</item>
+        <item>لێخۆشبوو</item>
+        <item>سورة فصّلت</item>
+        <item>سورة الشورى</item>
+        <item>سورة الزخرف</item>
+        <item>سورة الدّخان</item>
+        <item>سورة الجاثية</item>
+        <item>سورة الأحقاف</item>
+        <item>سورة محمد</item>
+        <item>سورة الفتح</item>
+        <item>سورة الحجرات</item>
+        <item>سورة ق</item>
+        <item>سورة الذاريات</item>
+        <item>سورة الطور</item>
+        <item>سورة النجم</item>
+        <item>سورة القمر</item>
+        <item>سورة الرحمن</item>
+        <item>سورة الواقعة</item>
+        <item>سورة الحديد</item>
+        <item>سورة المجادلة</item>
+        <item>سورة الحشر</item>
+        <item>سورة الممتحنة</item>
+        <item>سورة الصف</item>
+        <item>سورة الجمعة</item>
+        <item>سورة المنافقون</item>
+        <item>سورة التغابن</item>
+        <item>سورة الطلاق</item>
+        <item>سورة التحريم</item>
+        <item>سورة الملك</item>
+        <item>سورة القلم</item>
+        <item>سورة الحاقة</item>
+        <item>سورة المعارج</item>
+        <item>سورة نوح</item>
+        <item>سورة الجن</item>
+        <item>سورة المزّمّل</item>
+        <item>سورة المدّثر</item>
+        <item>سورة القيامة</item>
+        <item>سورة الإنسان</item>
+        <item>سورة المرسلات</item>
+        <item>سورة النبأ</item>
+        <item>سورة النازعات</item>
+        <item>سورة عبس</item>
+        <item>سورة التكوير</item>
+        <item>سورة الإنفطار</item>
+        <item>سورة المطفّفين</item>
+        <item>سورة الإنشقاق</item>
+        <item>سورة البروج</item>
+        <item>سورة الطارق</item>
+        <item>سورة الأعلى</item>
+        <item>سورة الغاشية</item>
+        <item>سورة الفجر</item>
+        <item>سورة البلد</item>
+        <item>خۆر</item>
+        <item>سورة الیل</item>
+        <item>چێشتەنگاو</item>
+        <item>سورة الشرح</item>
+        <item>سورة التین</item>
+        <item>سورة العلق</item>
+        <item>سورة القدر</item>
+        <item>سورة البینة</item>
+        <item>سورة الزلزلة</item>
+        <item>سورة العاديات</item>
+        <item>سورة القارعة</item>
+        <item>سورة التکاثر</item>
+        <item>سورة العصر</item>
+        <item>سورة الهمزة</item>
+        <item>سورة الفیل</item>
+        <item>سورة قریش</item>
+        <item>سورة الماعون</item>
+        <item>سورة الكوثر</item>
+        <item>سورة الكافرون</item>
+        <item>سورة النصر</item>
+        <item>سورة المسد</item>
+        <item>سورة الإخلاص</item>
+        <item>سورة الفلق</item>
+        <item>سورة النّاس</item>
+    </array>
+    <array name="theme_names">
+        <item>سپی</item>
+        <item>ڕەش (تاریک)</item>
+        <item>سەوز</item>
+        <item>قاوەیی</item>
+        <item>شینی تۆخ</item>
+    </array>
+    <array name="tut_descs">
+        <item>قورئان تێ بگە لەگەڵ وەرگێڕانى زۆر و تەفسیری ابن کەسیر</item>
+        <item>کۆدێکی ڕەنگی تەجووید, دەنگ, ڕۆڵی خۆکار و زیاتر</item>
+        <item>شيكردنەوەى وشە درێژە پێ بدە لەسەر كليل كردن لەسەر وشە بۆ گەڕان</item>
+        <item>گۆڕینی شێوە, خەت بەرزکردنەوەی نزیکردنەوە بۆ گوڕینی قەبارەی نوسین</item>
+    </array>
+    <array name="verb_form_names">
+        <item>تەواو دروستە</item>
+        <item>تەواو نادروستە</item>
+        <item>ملێيى</item>
+        <item>کەسێکی چالاک</item>
+        <item>کەسێکی بێ بەهرە</item>
+        <item>ناوی فۆڕم</item>
+    </array>
+</resources>

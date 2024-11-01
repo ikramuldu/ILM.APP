@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>Usmoniy/Madaniy</item>
+        <item>HindPok/Osiyo (beta)</item>
+    </array>
+    <array name="numerical">
+        <item>Birinchi shaxs</item>
+        <item>Ikkinchi shaxs</item>
+        <item>Uchinchi shaxs</item>
+        <item>Birlik</item>
+        <item>Ikkilik</item>
+        <item>Ko\'plik</item>
+        <item>Erkak kishiga hos</item>
+        <item>Ayol kishiga hos</item>
+        <item>Aktiv qo\'shimcha/sor\'lari</item>
+        <item>Passive qo\'shimcha/sor\'lari</item>
+        <item>Shaxs jinsiga hos</item>
+        <item>Bosh kelishik</item>
+        <item>Egalik</item>
+        <item>Noaniq</item>
+        <item>Mukammal/tugallangan</item>
+        <item>Tugallanmagan</item>
+        <item>Buyruq tarzidagi</item>
+        <item>Ko\'rsatuvchi</item>
+        <item>Istak/hoxish</item>
+        <item>Buyruq tarzidagi</item>
+        <item>Old qo\'shimcha</item>
+        <item>So\'z oxiridagi qo\'shimcha</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>E\'tibor kuchaytiruvchi qo\'shimcha/so\'zlar</item>
+        <item>Sifat</item>
+        <item>Aniqlik kirituvchi qo\'shimcha/so\'zlar</item>
+        <item>Javob ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Rad/qarshilik ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Sabab ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Aniqlik ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Hol</item>
+        <item>Birgalik ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Shart ifodalovchi qo\'shimcha/so\'zlar</item>
+        <item>Ko\'rsatish/Yo\'naltirish bog\'lovchilari</item>
+        <item>Ifodali atama</item>
+        <item>Aniqlovchi</item>
+        <item>Ifodali old qo\'shimcha (lam)</item>
+        <item>Tenglovchi qo\'shimcha/so\'zlar</item>
+        <item>Buyruq qo\'shimcha/so\'zlar</item>
+        <item>T\'arif qo\'shimcha/so\'zlar</item>
+        <item>Istisno/Zidlik qo\'shimcha/so\'zlar</item>
+        <item>Kelajak qo\'shimcha/so\'zlar</item>
+        <item>Buyruq og\'zaki so\'zlar</item>
+        <item>Buyruq oldingi qo\'shimcha (lam)</item>
+        <item>Boshlang\'ich qo\'shimcha/so\'zlar</item>
+        <item>Qur\'onga oid bosh harflar</item>
+        <item>Izohlovchi qo\'shimcha/so\'zlar</item>
+        <item>So\'roq qo\'shimcha/so\'zlar</item>
+        <item>Joy ravishi</item>
+        <item>Ot</item>
+        <item>Inkor qo\'shimcha/so\'zlar</item>
+        <item>Old ko\'makchi</item>
+        <item>Tegishli atama</item>
+        <item>Ogohlantiruvchi/qarshi qo\'shimcha/so\'zlar</item>
+        <item>Taqiqlovchi qo\'shimcha/so\'zlar</item>
+        <item>Kishilik olmoshi</item>
+        <item>Maqsad old qo\'shimchasi (lam)</item>
+        <item>Nisbiy/qiyosiy olmosh</item>
+        <item>Qayta bog\'lovchi qo\'shimcha/so\'zlar</item>
+        <item>Cheklovchi qo\'shimcha/so\'zlar</item>
+        <item>Bekor qiluvchi qo\'shimcha/so\'zlar</item>
+        <item>Natija qo\'shimcha/so\'zlar</item>
+        <item>Birlashtiruvchi bog\'lovchilar</item>
+        <item>To\'ldiruvchi qo\'shimcha/so\'zlar</item>
+        <item>Hayratlanish qo\'shimcha/so\'zlar</item>
+        <item>Vaqt ravishi</item>
+        <item>Fe\'l</item>
+        <item>Vositachi qo\'shimcha/so\'zlar</item>
+        <item>Ot-fe\'l</item>
+        <item>Diqqat</item>
+        <item>Masofa</item>
+        <item>Manzil</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>Qur\'ondan biror narsa o\'rganmoqchimisiz?</item>
+        <item>Qur\'on bu haqida nima deydi?</item>
+        <item>Alloh (s.v.t) bu haqida nima deydi?</item>
+        <item>Mavzudagi oyatlar</item>
+        <item>Mavzudagi oyatlar</item>
+        <item>Qur\'ondan qiziqarli mavzular</item>
+        <item>Bugungi mavzu</item>
+        <item>Qur\'ondan tekshirib ko\'ring</item>
+        <item>Qur\'ondan o\'rganing</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>Kun oyati</item>
+        <item>Bugungi oyat</item>
+        <item>Oyat o\'qishga imkoniyat topasizmi?</item>
+        <item>Bugun bir oyat o\'rganing</item>
+        <item>Kunlik oyat</item>
+        <item>Bir oyat o\'rganmoqchimisiz?</item>
+        <item>Keling, bir oyat o\'rganamiz</item>
+        <item>Bugunga oyat</item>
+        <item>Bugun bir oyat o\'qidingizmi?</item>
+        <item>Oyatni o\'qish uchun bosing</item>
+        <item>Alloh (s.v.t.) sizga nima deydi?</item>
+        <item>Bugun Alloh (s.v.t) siz bilan so\'zlashsin</item>
+        <item>Bugun Alloh bilan so\'zlashdingizmi?</item>
+        <item>Alloh (s.v.t) bilan gaplashaylik</item>
+        <item>Bugun Alloh (s.v.t)ni esladingizmi?</item>
+        <item>Bugun Alloh (s.v.t)ga hamd keltirdingizmi?</item>
+        <item>Alloh (s.v.t)ni eslaylik</item>
+        <item>Qalbimiz uchun taom</item>
+        <item>Aqlimni yig\'ish vaqti</item>
+        <item>Yaratuvchingizni eslang</item>
+    </array>
+    <array name="sura_translation">
+        <item>Fotiha</item>
+        <item>Baqara</item>
+        <item>Oli Imron</item>
+        <item>Niso</item>
+        <item>Moida</item>
+        <item>Anʼom</item>
+        <item>Aʼrof</item>
+        <item>Anfol</item>
+        <item>Tavba</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Raʼd</item>
+        <item>Ibdohim</item>
+        <item>Xijr</item>
+        <item>Nahl</item>
+        <item>Isro</item>
+        <item>Kahf</item>
+        <item>Maryam</item>
+        <item>Toxo</item>
+        <item>Anbiyo</item>
+        <item>Haj</item>
+        <item>Moʻminun</item>
+        <item>Nur</item>
+        <item>Furqon</item>
+        <item>Shuaro</item>
+        <item>Naml</item>
+        <item>Qasos</item>
+        <item>Ankabut</item>
+        <item>Rum</item>
+        <item>Luqmon</item>
+        <item>Sajda</item>
+        <item>Ahzob</item>
+        <item>Sabaʼ</item>
+        <item>Fotir</item>
+        <item>Yosin</item>
+        <item>As-Saffot</item>
+        <item>Sod</item>
+        <item>Zumar</item>
+        <item>Gʻofir</item>
+        <item>Fussilat</item>
+        <item>Shuro</item>
+        <item>Zuhruf</item>
+        <item>Duxon</item>
+        <item>Josiya</item>
+        <item>Ahqof</item>
+        <item>Muhammad</item>
+        <item>Fath</item>
+        <item>Hujurot</item>
+        <item>Qof</item>
+        <item>Zariyat</item>
+        <item>Tur</item>
+        <item>Najm</item>
+        <item>Qamar</item>
+        <item>Rahmon</item>
+        <item>Voqea</item>
+        <item>Hadid</item>
+        <item>Mujodala</item>
+        <item>Xashr</item>
+        <item>Mumtahana</item>
+        <item>Saf</item>
+        <item>Juma</item>
+        <item>Munofiqun</item>
+        <item>Tagʻobun</item>
+        <item>Taloq</item>
+        <item>Tahrim</item>
+        <item>Mulk</item>
+        <item>Qalam</item>
+        <item>Haaqqah</item>
+        <item>Maʼorij</item>
+        <item>Nuh</item>
+        <item>Jin</item>
+        <item>Muzzammil</item>
+        <item>Muddassir</item>
+        <item>Qiyomat</item>
+        <item>Inson</item>
+        <item>Mursalat</item>
+        <item>Naba</item>
+        <item>Naziyat</item>
+        <item>Abasa</item>
+        <item>Takvir</item>
+        <item>Infitor</item>
+        <item>Mutaffifun</item>
+        <item>Inshiqoq</item>
+        <item>Buruj</item>
+        <item>Toriq</item>
+        <item>Aʼlo</item>
+        <item>Gʻoshiya</item>
+        <item>Fajr</item>
+        <item>Balad</item>
+        <item>Shams</item>
+        <item>Layl</item>
+        <item>Zuho</item>
+        <item>Sharh</item>
+        <item>Tiyn</item>
+        <item>Alaq</item>
+        <item>Qadr</item>
+        <item>Bayyina</item>
+        <item>Zalzala</item>
+        <item>Оdiyot</item>
+        <item>Qoriʼa</item>
+        <item>Takasur</item>
+        <item>Asr</item>
+        <item>Humaza</item>
+        <item>Fil</item>
+        <item>Quraysh</item>
+        <item>Moʼun</item>
+        <item>Kavsar</item>
+        <item>Kofirun</item>
+        <item>Nasr</item>
+        <item>Masad</item>
+        <item>Ixlos</item>
+        <item>Falaq</item>
+        <item>Nos</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>Fotiha</item>
+        <item>Baqara</item>
+        <item>Oli Imron</item>
+        <item>Niso</item>
+        <item>Moida</item>
+        <item>An\'om</item>
+        <item>A\'rof</item>
+        <item>Anfol</item>
+        <item>Tavba</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Ra\'d</item>
+        <item>Ibrohim</item>
+        <item>Hijr</item>
+        <item>Nahl</item>
+        <item>Isro</item>
+        <item>Kahf</item>
+        <item>Maryam</item>
+        <item>Toho</item>
+        <item>Anbiyo</item>
+        <item>Haj</item>
+        <item>Mu\'minun</item>
+        <item>Nur</item>
+        <item>Furqon</item>
+        <item>Shuaro</item>
+        <item>Naml</item>
+        <item>Qasas</item>
+        <item>Ankabut</item>
+        <item>Rum</item>
+        <item>Luqmon</item>
+        <item>Sajda</item>
+        <item>Ahzob</item>
+        <item>Saba\'</item>
+        <item>Fotir</item>
+        <item>Yosin</item>
+        <item>Soffot</item>
+        <item>Sod</item>
+        <item>Zumar</item>
+        <item>G\'ofir</item>
+        <item>Fussilat</item>
+        <item>Sho\'ro</item>
+        <item>Zuxruf</item>
+        <item>Duxon</item>
+        <item>Josiya</item>
+        <item>Ahqof</item>
+        <item>Muhammad</item>
+        <item>Fath</item>
+        <item>Hujurot</item>
+        <item>Qof</item>
+        <item>Zoriyot</item>
+        <item>Tur</item>
+        <item>Najm</item>
+        <item>Qamar</item>
+        <item>Ar-Rahmon</item>
+        <item>Voqea</item>
+        <item>Hadid</item>
+        <item>Mujodala</item>
+        <item>Hashr</item>
+        <item>Mumtahana</item>
+        <item>Saf</item>
+        <item>Jum\'a</item>
+        <item>Munofiqun</item>
+        <item>Tag\'obun</item>
+        <item>Taloq</item>
+        <item>Tahrim</item>
+        <item>Mulk</item>
+        <item>Qalam</item>
+        <item>Hoqqa</item>
+        <item>Maorij</item>
+        <item>Nuh</item>
+        <item>Jin</item>
+        <item>Muzzammil</item>
+        <item>Muddassir</item>
+        <item>Qiyomat</item>
+        <item>Inson</item>
+        <item>Mursalot</item>
+        <item>Naba\'</item>
+        <item>Noziot</item>
+        <item>Abasa</item>
+        <item>Takvir</item>
+        <item>Infitor</item>
+        <item>Mutaffifun</item>
+        <item>Inshiqoq</item>
+        <item>Buruj</item>
+        <item>Toriq</item>
+        <item>A\'lo</item>
+        <item>G\'oshiya</item>
+        <item>Fajr</item>
+        <item>Balad</item>
+        <item>Shams</item>
+        <item>Layl</item>
+        <item>Zuho</item>
+        <item>Sharh</item>
+        <item>Tin</item>
+        <item>Alaq</item>
+        <item>Qadr</item>
+        <item>Bayyina</item>
+        <item>Zalzala</item>
+        <item>Odiyot</item>
+        <item>Qoria</item>
+        <item>Takosur</item>
+        <item>Asr</item>
+        <item>Humaza</item>
+        <item>Fil</item>
+        <item>Quraysh</item>
+        <item>Mo\'un</item>
+        <item>Kavsar</item>
+        <item>Kofirun</item>
+        <item>Nasr</item>
+        <item>Masad</item>
+        <item>Ixlos</item>
+        <item>Falaq</item>
+        <item>Nos</item>
+    </array>
+    <array name="theme_names">
+        <item>Oq</item>
+        <item>Qora</item>
+        <item>Yashil</item>
+        <item>Jigarrang</item>
+        <item>Dark Blue</item>
+    </array>
+    <array name="tut_descs">
+        <item>Ko\'plab tarjimalar va Ibn Kasir tafsiri bilan Qur\'onni tushunish</item>
+        <item>Rangli kodlangan tajvid, Audio, Avtomatik navbatdagi sahifaga o\'tish imkoniyati va boshqalar</item>
+        <item>So\'zga bosilganda so\'zni batafsil tahlili va qidiruv imkoniyati</item>
+        <item>Tema, shriftlarni o\'zgartirish hamda matn o\'lchamini o\'zgartirish uchun yaqin/uzoqlashtirish</item>
+    </array>
+    <array name="verb_form_names">
+        <item>Tugallangan zamon</item>
+        <item>Tugallanmagan zamon</item>
+        <item>Buyruq tarzidagi</item>
+        <item>Aktiv ishtirokchi</item>
+        <item>Passiv ishtirokchi</item>
+        <item>Ot shakli</item>
+    </array>
+</resources>

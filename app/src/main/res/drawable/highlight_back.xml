@@ -1,0 +1,8 @@
+<!-- the background shape when it's not being clicked -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke android:width="0.5dp"
+        android:color="#33b5e5" />
+    <solid android:color="#2233b5e5"/>
+    <corners android:radius="10dp" />
+</shape>

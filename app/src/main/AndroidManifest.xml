@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission
+        android:name="android.permission.SCHEDULE_EXACT_ALARM"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="28" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:mimeType="resource/folder" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW_DOWNLOADS" />
+        </intent>
+    </queries>
+    <application
+        android:icon="@drawable/ic_app"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/ThemeWhite">
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/paths" />
+        </provider>
+        <activity android:name=".activity_main.MainActivity" />
+        <activity
+            android:name=".activity_main.MySplashScreen"
+            android:exported="true"
+            android:theme="@style/Theme.App.Starting">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity_setting.SettingActivity"
+            android:icon="@drawable/ic_setting"
+            android:label="@string/menu_settings" />
+        <activity
+            android:name=".activity_quran.QuranActivity"
+            android:icon="@drawable/ic_quran"
+            android:label="@string/quran" />
+        <activity
+            android:name=".print.PrintActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity_search.SearchQuranActivity"
+            android:icon="@drawable/ic_search"
+            android:label="@string/search_menu_title" />
+        <activity
+            android:name=".media_section.MediaHomeActivity"
+            android:icon="@drawable/ic_media"
+            android:label="@string/islamhouse" />
+        <activity
+            android:name=".media_section.MediaSettingActivity"
+            android:icon="@drawable/ic_setting"
+            android:label="@string/menu_settings" />
+        <activity
+            android:name=".workout_section.WorkoutActivity"
+            android:icon="@drawable/workout"
+            android:label="@string/workout" />
+        <activity
+            android:name=".hadith_section.ReadHadisActivity"
+            android:icon="@drawable/hadis"
+            android:label="@string/hadis" />
+        <activity
+            android:name=".hadith_section.SearchHadithActivity"
+            android:icon="@drawable/ic_search"
+            android:label="@string/search_menu_title" />
+        <activity
+            android:name=".book_section.ReadBookActivity"
+            android:icon="@drawable/book" />
+        <activity
+            android:name=".book_section.SearchBookActivity"
+            android:icon="@drawable/ic_search"
+            android:label="@string/search_menu_title" />
+        <activity
+            android:name=".activity_reader.PDFActivity"
+            android:exported="true"
+            android:icon="@drawable/pdf"
+            android:label="PDF reader">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:mimeType="application/pdf" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".activity_quran.QuranPlayerService"
+            android:foregroundServiceType="mediaPlayback" />
+        <service
+            android:name=".media_section.PlayerService"
+            android:foregroundServiceType="mediaPlayback" />
+        <service android:name=".DownloadService" />
+        <service android:name=".fragments.prayer_time.AlarmService" />
+
+        <activity
+            android:name=".fragments.prayer_time.AlarmActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard|navigation"
+            android:excludeFromRecents="true"
+            android:launchMode="singleTop"
+            android:taskAffinity="" />
+        <receiver
+            android:name=".fragments.prayer_time.MyReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter android:priority="1000">
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.REBOOT" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+                <action android:name="android.intent.action.MY_PACKAGE_UNSUSPENDED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/main_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp5" />
+
+        <EditText
+            android:id="@+id/addCat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dp10"
+            android:background="@null"
+            android:drawablePadding="@dimen/dp10"
+            android:hint="@string/folder_name_hint"
+            android:imeOptions="actionDone"
+            android:inputType="textNoSuggestions"
+            android:padding="@dimen/dp5"
+            android:text="@string/create_folder_title"
+            app:drawableStartCompat="@android:drawable/ic_menu_add"
+            android:importantForAutofill="no" />
+
+        <EditText
+            android:id="@+id/note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dp10"
+            android:background="@drawable/edit_back"
+            android:gravity="top"
+            android:hint="@string/add_note"
+            android:inputType="textMultiLine"
+            android:padding="@dimen/dp10"
+            android:importantForAutofill="no" />
+    </LinearLayout>
+</ScrollView>

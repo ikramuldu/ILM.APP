@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:theme="@style/darkBar" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/views"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/theme"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp10"
+                android:text="@string/pref_theme"/>
+
+            <CheckBox
+                android:id="@+id/fit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp10"
+                android:text="@string/auto_fit" />
+
+            <CheckBox
+                android:id="@+id/ratio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp10"
+                android:text="@string/keep_ratio"/>
+
+            <TextView
+                android:id="@+id/prev"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingStart="@dimen/dp10"
+                android:paddingLeft="@dimen/dp10"
+                android:paddingTop="@dimen/dp10"
+                android:paddingEnd="@dimen/dp10"
+                android:paddingRight="@dimen/dp10"
+                android:text="@string/backward"
+                android:textColor="?android:textColor" />
+
+            <SeekBar
+                android:id="@+id/p_seek"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:max="60" />
+            <TextView
+                android:id="@+id/bangla"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingEnd="@dimen/dp10"
+                android:paddingRight="@dimen/dp10"
+                android:paddingStart="@dimen/dp10"
+                android:paddingLeft="@dimen/dp10"
+                android:paddingTop="@dimen/dp10"
+                android:text="@string/pref_font_size" />
+
+            <SeekBar
+                android:id="@+id/bangla_seek"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:max="18"
+                android:paddingBottom="@dimen/dp10" />
+
+            <TextView
+                android:id="@+id/language"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="?selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:padding="@dimen/dp10"/>
+
+            <TextView
+                android:id="@+id/storage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="?selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:padding="@dimen/dp10"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

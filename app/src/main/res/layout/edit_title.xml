@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="@dimen/dp10">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:autofillHints="title"
+            android:background="@drawable/edit_back"
+            android:hint="@string/add_note"
+            android:imeOptions="actionDone"
+            android:importantForAutofill="yes"
+            android:inputType="textAutoCorrect|textMultiLine"
+            android:maxLines="7"
+            android:minLines="3"
+            android:padding="5dp" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="@dimen/dp10"
+            app:elevation="@dimen/dp10"
+            android:foreground="?selectableItemBackground"
+            android:layout_margin="@dimen/dp10">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/add_bookmarks"
+                android:background="?colorAccent"
+                android:padding="@dimen/dp10"
+                android:textSize="22sp"
+                android:textAllCaps="true"
+                android:textStyle="bold" />
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

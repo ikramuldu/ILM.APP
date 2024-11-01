@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>Uthmani</item>
+        <item>IndoPak/Asiatique (Beta)</item>
+    </array>
+    <array name="numerical">
+        <item>1ère personne</item>
+        <item>2ème personne</item>
+        <item>3ème personne</item>
+        <item>Singulier</item>
+        <item>Forme duelle</item>
+        <item>Pluriel</item>
+        <item>Masculin</item>
+        <item>Féminin</item>
+        <item>Participe actif</item>
+        <item>Participe passif</item>
+        <item>Génitif</item>
+        <item>Nominatif</item>
+        <item>Possessif</item>
+        <item>Indéfini</item>
+        <item>Accompli (Passé)</item>
+        <item>Inaccompli (Présent) </item>
+        <item>Impératif</item>
+        <item>Indicatif</item>
+        <item>Subjonctif</item>
+        <item>Jussif</item>
+        <item>Préfixe</item>
+        <item>Suffixe</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>Particule de l\'accusatif</item>
+        <item>Adjectif</item>
+        <item>Particule de correction</item>
+        <item>Particule de réponse</item>
+        <item>Particule d\'aversion</item>
+        <item>Particule de cause</item>
+        <item>Particule de certitude</item>
+        <item>Particule circonstantielle</item>
+        <item>Particule associative</item>
+        <item>Particule du conditionnel</item>
+        <item>Conjonction de coordination</item>
+        <item>Pronom démonstratif</item>
+        <item>Déterminant</item>
+        <item>Laam emphatique préfixé</item>
+        <item>Particule d\'égalité</item>
+        <item>Particule d\'exhortation</item>
+        <item>Particule explicative</item>
+        <item>Particule d\'Exception</item>
+        <item>Particule du Futur</item>
+        <item>Nom verbal impératif</item>
+        <item>Laam impératif préfixé</item>
+        <item>Particule du Commencement</item>
+        <item>Initiales quraniques</item>
+        <item>Particule d\'interprétation</item>
+        <item>Particule interrogative</item>
+        <item>Adverbe de lieu</item>
+        <item>Nom</item>
+        <item>Particule de négation</item>
+        <item>Préposition</item>
+        <item>Nom propre</item>
+        <item>Particule de prévention</item>
+        <item>Particule d\'interdiction</item>
+        <item>Pronom personnel</item>
+        <item>Laam de cause préfixé</item>
+        <item>Pronom relatif</item>
+        <item>Particule de reprise</item>
+        <item>Particule de restriction</item>
+        <item>Particule de rétractation</item>
+        <item>Particule de résultat</item>
+        <item>Conjonction de subordination</item>
+        <item>Particule de supplément</item>
+        <item>Particule de surprise</item>
+        <item>Adverbe de temps</item>
+        <item>Verbe</item>
+        <item>Particule de vocatif</item>
+        <item>Verbe nominal</item>
+        <item>Attention</item>
+        <item>Distance</item>
+        <item>Interlocuteur</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>En quête de connaissance à propos du Quran</item>
+        <item>Qu\'en dit le Quran</item>
+        <item>Qu\'en dit Allah</item>
+        <item>À propos des Ayah</item>
+        <item>À propos des versets</item>
+        <item>Sujets intéressants dans le Quran</item>
+        <item>Sujets d\'aujourd\'hui</item>
+        <item>Vérifie dans le Quran</item>
+        <item>Apprends cela du Quran</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>Ayah du jour</item>
+        <item>Ayah quotidienne</item>
+        <item>Envie de lire une Ayah?</item>
+        <item>Apprends une Ayah aujourd\'hui</item>
+        <item>Ayah journalière</item>
+        <item>Envie de connaître une Ayah?</item>
+        <item>Apprenons une Ayah</item>
+        <item>Une Ayah pour aujourd\'hui</item>
+        <item>Lire une Ayah aujourd\'hui?</item>
+        <item>Clique pour lire une Ayah</item>
+        <item>Rappelle-toi Allah aujourd\'hui</item>
+        <item>Prier Allah aujourd\'hui</item>
+        <item>Souviens-toi Allah</item>
+        <item>Un nutriment pour l\'âme</item>
+        <item>Remémore toi ton Seigneur</item>
+        <item>Souviens-toi de ton Seigneur</item>
+        <item>Rappelle-toi Allah</item>
+        <item>Une nourriture pour l\'âme</item>
+        <item>Le moment de se rafraîchir l\'esprit</item>
+        <item>Rappelle-toi ton Seigneur</item>
+    </array>
+    <array name="sura_translation">
+        <item>L\'Ouverture</item>
+        <item>La Vache</item>
+        <item>La Famille d\'Imran</item>
+        <item>Les Femmes</item>
+        <item>La Table Servie</item>
+        <item>Les Bestiaux</item>
+        <item>Les Limbes</item>
+        <item>Le Butin</item>
+        <item>Le repentir</item>
+        <item>Jonas</item>
+        <item>Houd</item>
+        <item>Joseph</item>
+        <item>Le Tonnerre</item>
+        <item>Abraham</item>
+        <item>Al Hijr</item>
+        <item>Les Abeilles</item>
+        <item>Le Voyage Nocturne</item>
+        <item>La Caverne</item>
+        <item>Marie</item>
+        <item>Ta-Ha</item>
+        <item>Les Prophètes</item>
+        <item>Le Pélerinage</item>
+        <item>Les Croyants</item>
+        <item>La Lumière</item>
+        <item>Le Discernement</item>
+        <item>Les Poètes</item>
+        <item>Les Fourmis</item>
+        <item>Le Récit</item>
+        <item>L\'Araignée</item>
+        <item>Les Romains</item>
+        <item>Luqman</item>
+        <item>La Prosternation</item>
+        <item>Les Coalisés</item>
+        <item>Saba</item>
+        <item>Le Créateur</item>
+        <item>Ya-Sin</item>
+        <item>Les Rangés</item>
+        <item>Sad</item>
+        <item>Les Groupes</item>
+        <item>Le Pardonneur</item>
+        <item>Les Versets Détaillés</item>
+        <item>La Consultation</item>
+        <item>L\'Ornement</item>
+        <item>La Fumée</item>
+        <item>L\'Agenouillé</item>
+        <item>Al Ahqaf</item>
+        <item>Muhammad</item>
+        <item>La Victoire Éclatante</item>
+        <item>Les Appartements</item>
+        <item>Qaf</item>
+        <item>Ceux Qui Éparpillent</item>
+        <item>Le Mont At-Tur</item>
+        <item>L\'Étoile</item>
+        <item>La Lune</item>
+        <item>Le Tout Miséricordieux</item>
+        <item>L\'Inéluctable</item>
+        <item>Le Fer</item>
+        <item>La Discussion</item>
+        <item>L\'Exode</item>
+        <item>L\'Éprouvée</item>
+        <item>Le Rang</item>
+        <item>Le Vendredi</item>
+        <item>Les Hypocrites</item>
+        <item>La Grande Perte</item>
+        <item>Le Divorce</item>
+        <item>L\'Interdiction</item>
+        <item>La Royauté</item>
+        <item>La Plume</item>
+        <item>Celle Qui Montre La Vérité</item>
+        <item>Les Voies D\'Ascension</item>
+        <item>Noé</item>
+        <item>Les Djinns</item>
+        <item>L\'Enveloppé</item>
+        <item>Le Revêtu D\'Un Manteau</item>
+        <item>La Résurrection</item>
+        <item>L\'Homme</item>
+        <item>Les Envoyés</item>
+        <item>La Nouvelle</item>
+        <item>Ceux Qui Arrachent Les Âmes</item>
+        <item>Il S\'Est Renfrogné</item>
+        <item>L\'Obscurcissement</item>
+        <item>La Rupture</item>
+        <item>Les Fraudeurs</item>
+        <item>La Déchirure</item>
+        <item>Les Constellations</item>
+        <item>L\'Astre Nocturne</item>
+        <item>Le Très Haut</item>
+        <item>L\'Enveloppante</item>
+        <item>L\'Aube</item>
+        <item>La Cité</item>
+        <item>Le Soleil</item>
+        <item>La Nuit</item>
+        <item>Le Jour Montant</item>
+        <item>L\'Ouverture</item>
+        <item>Le Figuier</item>
+        <item>l\'Adhérence</item>
+        <item>La Destinée</item>
+        <item>La Preuve</item>
+        <item>La Secousse</item>
+        <item>Les Coursiers</item>
+        <item>Le Fracas</item>
+        <item>La Course Aux Richesses</item>
+        <item>Le Temps</item>
+        <item>Les Calomniateurs</item>
+        <item>L\'Éléphant</item>
+        <item>Quraïsh</item>
+        <item>L\'ustensile</item>
+        <item>L\'Abondance</item>
+        <item>Les Infidèles</item>
+        <item>Le Secours</item>
+        <item>Les Fibres</item>
+        <item>Le Monothéisme Pur</item>
+        <item>L\'Aube Naissante</item>
+        <item>Les Hommes</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>Al-Fatihah</item>
+        <item>Al-Baqarah</item>
+        <item>Aali-Imran</item>
+        <item>An-Nisa\'</item>
+        <item>Al-Ma\'idah</item>
+        <item>Al-An\'am</item>
+        <item>Al-A\'raf</item>
+        <item>Al-Anfal</item>
+        <item>At-Tawbah</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Ar-Ra\'d</item>
+        <item>Ibrahim</item>
+        <item>Al-Hijr</item>
+        <item>An-Nahl</item>
+        <item>Al-Isra\'</item>
+        <item>Al-Kahf</item>
+        <item>Maryam</item>
+        <item>Ta Ha</item>
+        <item>Al-Anbiya</item>
+        <item>Al-Hajj</item>
+        <item>Al-Mu\'minun</item>
+        <item>An-Nur</item>
+        <item>Al-Furqan</item>
+        <item>Ash-Shu\'ara\'</item>
+        <item>An-Naml</item>
+        <item>Al-Qasas</item>
+        <item>Al-\'Ankabut</item>
+        <item>Ar-Rum</item>
+        <item>Luqman</item>
+        <item>As-Sajdah</item>
+        <item>Al-Ahzab</item>
+        <item>Saba\'</item>
+        <item>Fatir</item>
+        <item>Ya Sin</item>
+        <item>As-Saffat</item>
+        <item>Sad</item>
+        <item>Az-Zumar</item>
+        <item>Ghafir</item>
+        <item>Fussilat</item>
+        <item>Ash-Shura</item>
+        <item>Az-Zukhruf</item>
+        <item>Ad-Dukhan</item>
+        <item>Al-Jasiyah</item>
+        <item>Al-Ahqaf</item>
+        <item>Muhammad</item>
+        <item>Al-Fath</item>
+        <item>Al-Hujurat</item>
+        <item>Qaf</item>
+        <item>Adh-Dhariyat</item>
+        <item>At-Tur</item>
+        <item>An-Najm</item>
+        <item>Al-Qamar</item>
+        <item>Ar-Rahman</item>
+        <item>Al-Waqi\'ah</item>
+        <item>Al-Hadid</item>
+        <item>Al-Mujadila</item>
+        <item>Al-Hashr</item>
+        <item>Al-Mumtahanah</item>
+        <item>As-Saf</item>
+        <item>Al-Jumu\'ah</item>
+        <item>Al-Munafiqun</item>
+        <item>At-Taghabun</item>
+        <item>At-Talaq</item>
+        <item>At-Tahrim</item>
+        <item>Al-Mulk</item>
+        <item>Al-Qalam</item>
+        <item>Al-Haqqah</item>
+        <item>Al-Ma\'arij</item>
+        <item>Nuh</item>
+        <item>Al-Jinn</item>
+        <item>Al-Muzzammil</item>
+        <item>Al-Muddaththir</item>
+        <item>Al-Qiyamah</item>
+        <item>Al-Insan</item>
+        <item>Al-Mursalat</item>
+        <item>An-Naba\'</item>
+        <item>An-Nazi\'at</item>
+        <item>\'Abasa</item>
+        <item>At-Takwir</item>
+        <item>Al-Infitar</item>
+        <item>Al-Mutaffifin</item>
+        <item>Al-Inshiqaq</item>
+        <item>Al-Buruj</item>
+        <item>At-Tariq</item>
+        <item>Al-A\'la</item>
+        <item>Al-Ghashiyah</item>
+        <item>Al-Fajr</item>
+        <item>Al-Balad</item>
+        <item>Ash-shams</item>
+        <item>Al-Layl</item>
+        <item>Ad-Dhuhaa</item>
+        <item>Ash-Sharh</item>
+        <item>At-Tin</item>
+        <item>Al-\'Alaq</item>
+        <item>Al-Qadr</item>
+        <item>Al-Bayyinah</item>
+        <item>Az-Zalzalah</item>
+        <item>Al-\'Adiyat</item>
+        <item>Al-Qari\'ah</item>
+        <item>At-Takathur</item>
+        <item>Al-\'Asr</item>
+        <item>Al-Humazah</item>
+        <item>Al-Fil</item>
+        <item>Quraish</item>
+        <item>Al-Ma\'un</item>
+        <item>Al-Kawthar</item>
+        <item>Al-Kafirun</item>
+        <item>An-Nasr</item>
+        <item>Al-Masad</item>
+        <item>Al-Ikhlas</item>
+        <item>Al-Falaq</item>
+        <item>An-Nas</item>
+    </array>
+    <array name="theme_names">
+        <item>Blanc</item>
+        <item>Noir (nuit)</item>
+        <item>Vert</item>
+        <item>Marron</item>
+        <item>Dark Blue</item>
+    </array>
+    <array name="tut_descs">
+        <item>Comprendre le Quran avec de multiples traductions et le Tafsir d\'Ibn Kathir</item>
+        <item>Tajwid à l\'aide de code de couleur, Audio, Défilement Automatique &amp; plus</item>
+        <item>Détail de l\'analyse des mots en cliquant dessus avec la possibilité de rechercher ces mots</item>
+        <item>Changer les thèmes, police de caractère, pincer pour zoomer et changer la taille du texte</item>
+    </array>
+    <array name="verb_form_names">
+        <item>Accompli (Passé)</item>
+        <item>Inaccompli (Présent)</item>
+        <item>Impératif</item>
+        <item>Participe actif</item>
+        <item>Participe passif</item>
+        <item>Nom verbal</item>
+    </array>
+</resources>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>Utsmani</item>
+        <item>IndoPak/Asian (Beta)</item>
+    </array>
+    <array name="numerical">
+        <item>Orang pertama</item>
+        <item>Orang Kedua</item>
+        <item>Orang Ketiga</item>
+        <item>Tunggal</item>
+        <item>Berdua</item>
+        <item>Jamak</item>
+        <item>Maskulin</item>
+        <item>Feminin</item>
+        <item>Partikel Aktif</item>
+        <item>Partikel Pasif</item>
+        <item>Genitif</item>
+        <item>Nominatif</item>
+        <item>Posesif</item>
+        <item>Tak terbatas</item>
+        <item>Sempurna</item>
+        <item>Tak sempurna</item>
+        <item>Imperatif/Perintah</item>
+        <item>Indikatif/Pernyataan</item>
+        <item>Subjungtif/Pengandaian</item>
+        <item>Jusif/Permintaan</item>
+        <item>Awalan</item>
+        <item>Akhiran</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>Partikel Penderita</item>
+        <item>Kata Sifat</item>
+        <item>Partikel Perubahan</item>
+        <item>Partikel Jawab</item>
+        <item>Partikel Penolakan</item>
+        <item>Partikel Sebab</item>
+        <item>Partikel Kepastian</item>
+        <item>Partikel Keadaan</item>
+        <item>Partikel Penggabungan</item>
+        <item>Partikel Syarat</item>
+        <item>Kata Sambung Koordinasi</item>
+        <item>Kata Ganti Isyarat</item>
+        <item>Kata Sandang</item>
+        <item>Awalan Laam Penegasan</item>
+        <item>Partikel Penyamaan</item>
+        <item>Partikel Anjuran</item>
+        <item>Partikel Penjelasan</item>
+        <item>Partikel Perkecualian</item>
+        <item>Partikel Akan Datang</item>
+        <item>Kata Benda Kerja Perintah</item>
+        <item>Awalan Laam Perintah</item>
+        <item>Partikel Permulaan</item>
+        <item>Huruf Awal Qurani</item>
+        <item>Partikel Tafsir</item>
+        <item>Partikel Tanya</item>
+        <item>Kata Keterangan Tempat</item>
+        <item>Kata Benda</item>
+        <item>Partikel Negatif</item>
+        <item>Kata Depan</item>
+        <item>Kata Benda Tertentu</item>
+        <item>Partikel Pencegahan</item>
+        <item>Partikel Larangan</item>
+        <item>Kata Ganti Orang</item>
+        <item>Awalan Laam Tujuan</item>
+        <item>Kata Ganti Tak Tentu</item>
+        <item>Partikel Pemulaian</item>
+        <item>Partikel Pembatasan</item>
+        <item>Partikel Pengalihan</item>
+        <item>Partikel Hasil</item>
+        <item>Kata Sambung Subordinat</item>
+        <item>Kata Tambahan</item>
+        <item>Partikel Tak Terduga</item>
+        <item>Kata Keterangan Waktu</item>
+        <item>Kata Kerja</item>
+        <item>Partikel Seru</item>
+        <item>Kata Kerja Kata Benda</item>
+        <item>Perhatian</item>
+        <item>Jarak</item>
+        <item>Alamat</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>Ingin tahu tentang sesuatu dari Quran</item>
+        <item>Apa yang Quran katakan tentang</item>
+        <item>Apa yang Allah katakan tentang</item>
+        <item>Ayat-ayat tentang</item>
+        <item>Ayat-ayat tentang</item>
+        <item>Topik Menarik Dalam Quran</item>
+        <item>Topik Hari Ini</item>
+        <item>Periksa Ini Di Quran</item>
+        <item>Pelajari ini Di Quran</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>Ayat Hari Ini</item>
+        <item>Ayat Hari Ini</item>
+        <item>Tertarik untuk membaca satu ayat?</item>
+        <item>Pelajari sebuah ayat hari ini</item>
+        <item>Ayat Harian</item>
+        <item>Ingin tahu sebuah ayat?</item>
+        <item>Ayo belajar sebuah ayat</item>
+        <item>Ayat Untuk Hari Ini</item>
+        <item>Sudah membaca sebuah ayat hari ini?</item>
+        <item>Klik Untuk Membaca Satu Ayat</item>
+        <item>Apa yang Allah sedang kabarkan kepadamu?</item>
+        <item>Biarkan Allah berbicara kepadamu hari ini</item>
+        <item>Sudahkah berdoa kepada Allah hari ini?</item>
+        <item>Ayo kita berdoa kepada Allah</item>
+        <item>Sudah berzikir kepada Allah hari ini?</item>
+        <item>Sudah memuji Allah hari ini?</item>
+        <item>Ayo berzikir kepada Allah</item>
+        <item>Makanan Untuk Jiwa</item>
+        <item>Waktunya Untuk Menyegarkan Kembali Pikiranku</item>
+        <item>Ingat Tuhanmu</item>
+    </array>
+    <array name="sura_translation">
+        <item>Pembukaan</item>
+        <item>Sapi Betina</item>
+        <item>Keluarga Imran</item>
+        <item>Wanita</item>
+        <item>Hidangan</item>
+        <item>Binatang Ternak</item>
+        <item>Tempat Tertinggi</item>
+        <item>Rampasan Perang</item>
+        <item>Pengampunan</item>
+        <item>Nabi Yunus</item>
+        <item>Nabi Hud</item>
+        <item>Nabi Yusuf</item>
+        <item>Guruh</item>
+        <item>Nabi Ibrahim</item>
+        <item>Pegunungan Hijr</item>
+        <item>Lebah</item>
+        <item>Perjalanan Di Malam Hari</item>
+        <item>Gua</item>
+        <item>Maryam</item>
+        <item>Thaaha</item>
+        <item>Nabi-nabi</item>
+        <item>Haji</item>
+        <item>Orang-orang Beriman</item>
+        <item>Cahaya</item>
+        <item>Pembeda</item>
+        <item>Penyair-penyair</item>
+        <item>Semut</item>
+        <item>Kisah-kisah</item>
+        <item>Laba-laba</item>
+        <item>Bangsa Rum</item>
+        <item>Luqman</item>
+        <item>Sujud</item>
+        <item>Golongan Yang Bersekutu</item>
+        <item>Negeri Saba</item>
+        <item>Maha Pencipta</item>
+        <item>Yasiin</item>
+        <item>Yang Berbaris</item>
+        <item>Shaad</item>
+        <item>Rombongan-rombongan</item>
+        <item>Yang Maha Mengampuni</item>
+        <item>Yang Dijelaskan</item>
+        <item>Musyawarah</item>
+        <item>Perhiasan</item>
+        <item>Kabut</item>
+        <item>Yang Berlutut</item>
+        <item>Bukit-bukit Pasir</item>
+        <item>Nabi Muhammad</item>
+        <item>Kemenangan</item>
+        <item>Kamar-kamar</item>
+        <item>Qaaf</item>
+        <item>Angin Yang Menerbangkan</item>
+        <item>Bukit Thur</item>
+        <item>Bintang</item>
+        <item>Bulan</item>
+        <item>Maha Pengasih</item>
+        <item>Hari Kiamat, Hari Yang Pasti Terjadi</item>
+        <item>Besi</item>
+        <item>Wanita Yang Mengajukan Gugatan</item>
+        <item>Pengusiran</item>
+        <item>Wanita Yang Diuji</item>
+        <item>Barisan</item>
+        <item>Hari Jum\'at</item>
+        <item>Orang-orang Munafik</item>
+        <item>Hari Ditampakkan Kesalahan-kesalahan</item>
+        <item>Talak</item>
+        <item>Pengharaman</item>
+        <item>Kerajaan</item>
+        <item>Pena</item>
+        <item>Hari Kiamat, Hari Yang Benar Pasti Terjadi</item>
+        <item>Tempat-tempat Naik</item>
+        <item>Nabi Nuh</item>
+        <item>Jin</item>
+        <item>Orang Yang Berselimut</item>
+        <item>Orang Yang Berkemul</item>
+        <item>Hari Kiamat</item>
+        <item>Manusia</item>
+        <item>Malaikat Yang Diutus</item>
+        <item>Berita</item>
+        <item>Malaikat Yang Mencabut</item>
+        <item>Bermuka Masam</item>
+        <item>Penggulungan</item>
+        <item>Terbelah</item>
+        <item>Orang-orang Yang Curang</item>
+        <item>Terbelah Dua</item>
+        <item>Gugusan Bintang</item>
+        <item>Yang Datang Di Malam Hari</item>
+        <item>Yang Maha Tinggi</item>
+        <item>Hari Pembalasan</item>
+        <item>Fajar</item>
+        <item>Negeri</item>
+        <item>Matahari</item>
+        <item>Malam</item>
+        <item>Waktu Dhuha</item>
+        <item>Kelapangan</item>
+        <item>Buah Tin</item>
+        <item>Segumpal Darah</item>
+        <item>Kemuliaan, Takdir</item>
+        <item>Bukti</item>
+        <item>Keguncangan</item>
+        <item>Kuda Perang Yang Berlari Kencang</item>
+        <item>Hari Kiamat, Yang Mengguncang Keras</item>
+        <item>Bermegah-megahan</item>
+        <item>Masa, Waktu Petang</item>
+        <item>Pengumpat</item>
+        <item>Gajah</item>
+        <item>Suku Quraisy</item>
+        <item>Bantuan Yang Berguna</item>
+        <item>Nikmat Yang Banyak</item>
+        <item>Orang-orang Kafir</item>
+        <item>Pertolongan</item>
+        <item>Tali Sabut Yang Dipintal</item>
+        <item>Pemurnian Keesaan Allah</item>
+        <item>Waktu Shubuh</item>
+        <item>Manusia</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>Al-Fatihah</item>
+        <item>Al-Baqarah</item>
+        <item>Aali-Imran</item>
+        <item>An-Nisa\'</item>
+        <item>Al-Ma\'idah</item>
+        <item>Al-An\'am</item>
+        <item>Al-A\'raf</item>
+        <item>Al-Anfal</item>
+        <item>At-Taubah</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Ar-Ra\'d</item>
+        <item>Ibrahim</item>
+        <item>Al-Hijr</item>
+        <item>An-Nahl</item>
+        <item>Al-Isra\'</item>
+        <item>Al-Kahfi</item>
+        <item>Maryam</item>
+        <item>Thaa Ha</item>
+        <item>Al-Anbiya</item>
+        <item>Al-Hajj</item>
+        <item>Al-Mu\'minun</item>
+        <item>An-Nur</item>
+        <item>Al-Furqan</item>
+        <item>Asy-Syu\'ara\'</item>
+        <item>An-Naml</item>
+        <item>Al-Qasas</item>
+        <item>Al-\'Ankabut</item>
+        <item>Ar-Rum</item>
+        <item>Luqman</item>
+        <item>As-Sajdah</item>
+        <item>Al-Ahzab</item>
+        <item>Saba\'</item>
+        <item>Fathir</item>
+        <item>Ya Sin</item>
+        <item>Ash-Shaffat</item>
+        <item>Shad</item>
+        <item>Az-Zumar</item>
+        <item>Ghafir</item>
+        <item>Fushshilat</item>
+        <item>Asy-Syura</item>
+        <item>Az-Zukhruf</item>
+        <item>Ad-Dukhkhan</item>
+        <item>Al-Jatsiyah</item>
+        <item>Al-Ahqaf</item>
+        <item>Muhammad</item>
+        <item>Al-Fath</item>
+        <item>Al-Hujurat</item>
+        <item>Qaf</item>
+        <item>Adz-Dzariyat</item>
+        <item>Ath-Thur</item>
+        <item>An-Najm</item>
+        <item>Al-Qamar</item>
+        <item>Ar-Rahman</item>
+        <item>Al-Waqi\'ah</item>
+        <item>Al-Hadid</item>
+        <item>Al-Mujadilah</item>
+        <item>Al-Hasyr</item>
+        <item>Al-Mumtahanah</item>
+        <item>As-Shaf</item>
+        <item>Al-Jumu\'ah</item>
+        <item>Al-Munafiqun</item>
+        <item>At-Taghabun</item>
+        <item>At-Thalaq</item>
+        <item>At-Tahrim</item>
+        <item>Al-Mulk</item>
+        <item>Al-Qalam</item>
+        <item>Al-Haqqah</item>
+        <item>Al-Ma\'arij</item>
+        <item>Nuh</item>
+        <item>Al-Jinn</item>
+        <item>Al-Muzzammil</item>
+        <item>Al-Muddatstsir</item>
+        <item>Al-Qiyamah</item>
+        <item>Al-Insan</item>
+        <item>Al-Mursalat</item>
+        <item>An-Naba\'</item>
+        <item>An-Nazi\'at</item>
+        <item>\'Abasa</item>
+        <item>At-Takwir</item>
+        <item>Al-Infithar</item>
+        <item>Al-Muthaffifin</item>
+        <item>Al-Insyiqaq</item>
+        <item>Al-Buruj</item>
+        <item>At-Thariq</item>
+        <item>Al-A\'la</item>
+        <item>Al-Ghasyiyah</item>
+        <item>Al-Fajr</item>
+        <item>Al-Balad</item>
+        <item>Asy-Syams</item>
+        <item>Al-Layl</item>
+        <item>Adh-Dhuhaa</item>
+        <item>Asy-Syarh</item>
+        <item>At-Tin</item>
+        <item>Al-\'Alaq</item>
+        <item>Al-Qadr</item>
+        <item>Al-Bayyinah</item>
+        <item>Az-Zalzalah</item>
+        <item>Al-\'Adiyat</item>
+        <item>Al-Qari\'ah</item>
+        <item>At-Takatsur</item>
+        <item>Al-\'Ashr</item>
+        <item>Al-Humazah</item>
+        <item>Al-Fil</item>
+        <item>Quraisy</item>
+        <item>Al-Ma\'un</item>
+        <item>Al-Kautsar</item>
+        <item>Al-Kafirun</item>
+        <item>An-Nashr</item>
+        <item>Al-Masad</item>
+        <item>Al-Ikhlash</item>
+        <item>Al-Falaq</item>
+        <item>An-Nas</item>
+    </array>
+    <array name="theme_names">
+        <item>Putih</item>
+        <item>Hitam (Malam)</item>
+        <item>Hijau</item>
+        <item>Coklat</item>
+        <item>Dark Blue</item>
+    </array>
+    <array name="tut_descs">
+        <item>Memahami Quran dengan berbagai terjemahan dan Tafsir Ibnu Katsir</item>
+        <item>Kode warna tajwid, audio, fungsi menggulung sendiri &amp; banyak lagi</item>
+        <item>Analisa kata secara rinci terhadap kata-kata yang dipilih dan kemampuan untuk mencari</item>
+        <item>Mengganti tema, jenis huruf &amp; memperbesar ukuran teks dengan mencubit</item>
+    </array>
+    <array name="verb_form_names">
+        <item>Kalimat Lampau</item>
+        <item>Kalimat Sekarang</item>
+        <item>Kalimat Perintah</item>
+        <item>Partikel Aktif</item>
+        <item>Partikel Pasif</item>
+        <item>Bentuk Kata Benda</item>
+    </array>
+</resources>

@@ -1,0 +1,127 @@
+package bn.poro.quran;
+
+public @interface Consts {
+    int LATITUDE_DHAKA = 23710, LONGITUDE_DHAKA = 90407;
+    String ARABIC_MATCHER = "[\ufb50-\ufdff\u200F\u200E\u00AB\\d$&+,:\";=?@#|'<.^*({\\[%!/\\-]*[\u0600-\u06ff][\u0600-\u06ff\ufb50-\ufdff\u200F\u200E\u00BB\\s\\d$&+,:\";=?@#|'>.^*)}\\]%!/\\-]*";
+    int[] FONT_LIST = {0, R.font.uthmani_hafs, R.font.amiri_uran, R.font.divehi, R.font.me_quran, R.font.noorehira, R.font.noorehuda};
+    String[] RTL = {
+            "Arabic",
+            "Divehi",
+            "Kurdish",
+            "Farsi",
+            "Urdu",
+            "Pashto",
+            "Sindhi",
+            "Uyghur"};
+    String ARABIC_DB = "arabic.db";
+    String QURAN_DB_NAME = "quran.db";
+    String SHOW_BY_WORD = "a";
+    String SHOW_TRANS = "b";
+    String EXTRA_SURA_ID = "extra_sura";
+    String EXTRA_AYAH_NUM = "extra_ayah";
+    String ARABIC_FONT_KEY = "e";
+    String TAJWEED_KEY = "f";
+    String FONT_KEY = "i";
+    String STORE_NAME = "store";
+    String SHOW_ARABIC_KEY = "l";
+    String AUTO_SCROLL = "n";
+    String STOP_SURA = "o";
+    int TYPE_GROUP = 0;
+    int TYPE_CHILD = 1;
+    int MIN_FONT = 12;
+    int MIN_FONT_ARABIC = 15;
+    int DEF_FONT = 18;
+    int DEF_FONT_ARABIC = 23;
+    float TARGET_LATITUDE = 21.422f;
+    float TARGET_LONGITUDE = 39.826f;
+    String LONGITUDE = "u";
+    String CONVENTION = "v";
+    String FILES_PATH = "/Android/data/" + BuildConfig.APPLICATION_ID + "/files/";
+    String LANGUAGE_CODE = "y";
+    String THEME_KEY = "theme";
+    String FILE_LIST_DB = "file_list.db";
+    String FILE_LIST_ZIP = "file_list.zip";
+    String DB_VERSION_KEY = "aa";
+    String BOOKMARK_FILE = "bookmark.db";
+    String JUSTIFICATION = "ad";
+    String JUSTIFICATION_NOTIFIED = "ae";
+    String ARABIC_FONT_FACE = "af";
+    String RECENT_SURA_KEY = "ag";
+    String RECENT_AYAH_KEY = "ah";
+    int TIME_MIN = 1000000000;
+    String SEARCH_HISTORY_FILE = "search.txt";
+    String REPEAT = "ai";
+    String PLACE_DB = "places.db";
+    String DEF_LOCATION = "Change location";
+    String LOCATION_NAME = "aj";
+    String LATITUDE = "ak";
+    int DATABASE_VERSION = 4;
+    int SCROLL_DOWN_LIMIT = 3;
+    String SAVE_PASSWORD = "am";
+    String QUALITY = "an";
+    String ANTIALIAS = "ao";
+    String LATEST_HADIS = "ap";
+    String ISLAMHOUSE_SORT_KEY = "aq";
+    String ISLAMHOUSE_NOTIFY = "ar";
+    String MEDIA_ACTION_KEY = "as";
+    int MEDIA_ACTION_PAUSE = 1;
+    String FIT_SCREEN_KEY = "au";
+    String KEEP_RATIO_KEY = "av";
+    String BACKWARD_KEY = "aw";
+    String MEDIA_PATH_KEY = "ay";
+    String ID_KEY = "az";
+    String TYPE_KEY = "ba";
+    String URL_KEY = "bb";
+    String NAME_KEY = "be";
+    String ACTION_KEY = "bf";
+    int PLAYER_NOTIFICATION = -2;
+    int ACTION_PREPARE = 0;
+    String BOOK_POSITION_KEY = "bg";
+    String BOOK_OFFSET_KEY = "bh";
+    String TITLE_KEY = "bj";
+    String LATEST_BOOK_TITLE = "bk";
+    String LONG_PRESS_HINT = "bm";
+    String CHECKED_ITEMS = "bn";
+    String WORK_KEY = "bo";
+    String REST_KEY = "bp";
+    String LOADING_FILE = "-loading";
+    String SHOW_HARAKA_KEY = "bq";
+    String HADITH_NO = "br";
+    String HADIS_CHAPTER_KEY = "bs";
+    String HADIS_POSITION_KEY = "bt";
+    String LATEST_HADIS_BOOK = "bw";
+    String LATEST_PDF = "bx";
+    String LATEST_BOOK_ID = "by";
+    String LATEST_PDF_NAME = "bz";
+    String THUMB_DIR = "thumb/";
+    int SURA_COUNT = 114;
+    String FULL_QURAN_VIEW = "ca";
+    int ITEM_COUNT = 6350;
+    int BENGALI_TAJWEED_TRANSLITERATION_ID = 5202;
+    int[] tajweed = {0xFF2F9A00, 0xFF3264C5, 0x88AAAAAA, 0xFFB955C9, 0xFFb00000, 0xFFD16A01, 0xFF33b5e5};
+    String SURA_R2L = "cb";
+    boolean DEFAULT_DIRECTION_R2L = true;
+    String RECENT_OFFSET = "cc";
+    int DEF_SCROLL_TIME = 6;
+    int MAX_SCROLL_TIME = 50;
+    int MIN_SCROLL_TIME = 1;
+    float SCROLL_TIME_MULTIPLIER = 1.5f;
+    String BOOK_SUB_PATH = "books/";
+    String PDF_SUB_PATH = "pdf/";
+    String HADIS_SUB_PATH = "hadis/";
+    String QURAN_AUDIO_SUB_PATH = "sura/";
+    String TEMP_WORD_DIR = "temp/";
+    String PDF_MENU_OPEN_HINTED = "ce";
+    String HARAKA_REGEX = "[\u064B-\u0670]";
+    String PLAY_LINK = "https://play.google.com/store/apps/details?id=";
+    String ALARM_DATA_FILE = "alarm_data.bin";
+    String ALARM_PREFS = "alarm_prefs";
+    String SCROLL_SPEED = "cf";
+    String Extra_Word_ID = "ch";
+    String LEARNING_AUDIO_DOWNLOADED = "ci";
+    String PATH_KEY = "cj";
+    String EXTRACTION_PATH_KEY = "ck";
+    int DEF_PLAYER_SPEED = 10;
+    String PLAYER_SPEED = "cl";
+    int MIN_PLAYER_SPEED = 4;
+}

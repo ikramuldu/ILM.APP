@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="books">Boeken</string>
+    <string name="article">Artikelen</string>
+    <string name="video">Video</string>
+    <string name="fatwa">Fatwa</string>
+</resources>

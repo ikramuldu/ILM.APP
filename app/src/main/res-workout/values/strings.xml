@@ -1,0 +1,27 @@
+<resources>
+    <string name="a1">Run in place while pulling your knees as high as possible with each step. Keep your upper body upright during this exercise.</string>
+    <string name="a2">Start with your feet together and your arms by your sides, then jump up with your feet apart and your hands overhead. Return to the start position then do the next rep. This exercise provides a full-body workout and works all your large muscle groups.</string>
+    <string name="a3">Stand with your feet shoulder width apart, then put your hands on the ground and kick your feet backward. Do a quick push-up and then jump up.</string>
+    <string name="a5">Lie on the floor with your toes and forearms on the ground. Keep your body straight and hold this position as long as you can. This exercise strengthens the abdomen, back and shoulders.</string>
+    <string name="a6">Lie on the floor, bend one leg and lift the other leg. Then lift your hips off the floor. Hold the position for five seconds and switch to the other leg. This exercise works your abdomen and hips.</string>
+    <string name="a7">Lie down and bend your knees with your feet flat on the floor. Cross your arms in front of your chest. Then lift your head and shoulders up to make a 30 degree angle with the ground. It primarily works on the rectus abdominis muscle and obliques.</string>
+    <string name="a9">Start with your back against the wall, then slide down until your knees are at a 90 degree angle. Keep your back against the wall with your hands and arms away from your legs. Hold the position. The exercise is to strengthen the quadriceps muscles.</string>
+    <string name="a10">Stand with your feet shoulder width apart and your hands on your hips. Take a step forward with your right leg and lower your body until your right thigh is parallel with the floor. Then return and switch to the other leg. This exercise strengthens the quadriceps, gluteus maximus and hamstrings.</string>
+    <string name="a11">Stand with your feet shoulder width apart and your arms stretched forward, then lower your body until your thighs are parallel with the floor. Your knees should be extended in the same direction as your toes. Return to the start position and do the next rep. This works the thighs, hips buttocks, quads, hamstrings and lower body.</string>
+    <string name="a13">For the start position, sit on the chair. Then move your hip off the chair with your hands holding the edge of the chair. Slowly bend and stretch your arms to make your body go up and down. This is a great exercise for the triceps.</string>
+    <string name="a14">Lay prone on the ground with arms supporting your body. Keep your body straight while raising and lowering your body with your arms. This exercise works the chest, shoulders, triceps, back and legs.</string>
+    <string name="a15">Stand with your legs shoulder width apart and your knees bent slightly.Bend your elbows and clench your fists in front of your face.Extend one arm forward with the palm facing the floor. Take the arm back and repeat with the other arm.</string>
+    <string name="a17">Stand straight up. Then step back with your left leg and lower your body. When you come up, kick your left leg upward. Go back to the start position, and repeat the exercise.</string>
+    <string name="a18">Stand straight with your feet together. Move your right leg to the side, then lower your body while keeping your left leg straight. Go back to the start position and switch to the other side.</string>
+    <string name="a19">Stand in front of a chair. Then step up on the chair and step back down. The exercise works to strengthen the legs and buttocks.</string>
+    <string name="take_rest">Take a rest</string>
+    <string name="get_ready">Get Ready</string>
+    <string name="start_serially">Start serially</string>
+    <string name="gif">gif</string>
+    <string name="work_time">Each Exercise Duration: %d Sec</string>
+    <string name="rest_time">Rest Duration: %d Sec</string>
+    <string name="random">Start Randomly</string>
+    <string name="workout">Workout Now</string>
+    <string name="selected">Start by checked order</string>
+
+</resources>

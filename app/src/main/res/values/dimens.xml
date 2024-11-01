@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="expand_arrow_size">30dp</dimen>
+    <dimen name="snak_bar_item_h">40dp</dimen>
+    <dimen name="def_text">18sp</dimen>
+    <dimen name="head_text">18sp</dimen>
+    <dimen name="home_grid_pad">15dp</dimen>
+    <dimen name="time_margin">10dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/goto_page"
+        android:title="@string/go_to_page" />
+    <item
+        android:id="@+id/bookmark"
+        android:title="@string/add_bookmarks" />
+    <item
+        android:id="@+id/swipe_horizontal"
+        android:checkable="true"
+        android:title="@string/view_by_page" />
+    <item
+        android:id="@+id/double_page"
+        android:checkable="true"
+        android:title="@string/double_page" />
+    <item
+        android:id="@+id/full_screen"
+        android:checkable="true"
+        android:title="@string/full_screen" />
+    <item
+        android:id="@+id/lock_screen"
+        android:checkable="true"
+        android:title="@string/lock_screen" />
+    <item
+        android:id="@+id/landscape"
+        android:checkable="true"
+        android:title="@string/landscape" />
+</menu>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>العثماني</item>
+        <item>إندوباك/اسيا (بيتا)</item>
+    </array>
+    <array name="numerical">
+        <item>الشخص الأول</item>
+        <item>الشخص الثاني</item>
+        <item>الشخص الثالث</item>
+        <item>مفرد</item>
+        <item>مثنى</item>
+        <item>جمع</item>
+        <item>مذكر</item>
+        <item>مؤنث</item>
+        <item>اسم الفاعل</item>
+        <item>اسم المفعول</item>
+        <item>مُضاف</item>
+        <item>رفع قواعد</item>
+        <item>تمليك</item>
+        <item>مُنَكّر</item>
+        <item>تام</item>
+        <item>غير تام</item>
+        <item>صيغة الامر</item>
+        <item>دِلآلِيّ</item>
+        <item>صيغة الشرط</item>
+        <item>أمري</item>
+        <item>بادئة</item>
+        <item>لاحقة</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>أداة النصب</item>
+        <item>الصفة</item>
+        <item>اداة التعديل</item>
+        <item>حرف الجواب</item>
+        <item>أداة النفور</item>
+        <item>اداة السبب</item>
+        <item>اداة التأكيد</item>
+        <item>اداة الظرف</item>
+        <item>اداة التبادل</item>
+        <item>اداة الشرط</item>
+        <item>أداة العطف</item>
+        <item>اسم الإشارة</item>
+        <item>التحديد</item>
+        <item>لام الابتداء للتأكيد</item>
+        <item>اداة المساواة</item>
+        <item>اداة التحذير والارشاد</item>
+        <item>اداة التفصيل</item>
+        <item>أداة الاستثناء</item>
+        <item>اداة المستقبل</item>
+        <item>لفظ الاسم الحتمي</item>
+        <item>لام الابتداء للأمر</item>
+        <item>اداة الاستهلال</item>
+        <item>القران الاول</item>
+        <item>حروف الترجمة والتفسير</item>
+        <item>اداة استفهام</item>
+        <item>ظرف مكان</item>
+        <item>اسم</item>
+        <item>اداة النفي</item>
+        <item>حرف جر</item>
+        <item>اسم علم</item>
+        <item>اداة وقائية</item>
+        <item>اداة ناهية</item>
+        <item>الضمائر</item>
+        <item>لام التعليل</item>
+        <item>الاسم الموصول</item>
+        <item>اداة استئناف</item>
+        <item>نحسار والتقييد</item>
+        <item>االتراجع</item>
+        <item>اداة النتيجة والسبب</item>
+        <item>العطف</item>
+        <item>إضافي</item>
+        <item>أداة التعجب</item>
+        <item>ظرف زمان</item>
+        <item>فعل</item>
+        <item>حرف نداء</item>
+        <item>إسم الفعل</item>
+        <item>تنبيه</item>
+        <item>المسافة</item>
+        <item>العنوان</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>تريد ان تعرف حول القرآن</item>
+        <item>ماذا يقول القران الكريم حول</item>
+        <item>ماذا يقول الله سبحانه حول</item>
+        <item>آيةٌ تتعلق بـ </item>
+        <item>آياتٌ متعلقةٌ بـ</item>
+        <item>موضوع مثير للاهتمام في القرآن الكريم</item>
+        <item>موضوع اليوم</item>
+        <item>انقر للخروج من القران الكريم</item>
+        <item>تعرف على هذا من القران الكريم</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>آية هذا اليوم</item>
+        <item>الآية اليومية</item>
+        <item>هل ترغبُ بقراءةِ آية؟</item>
+        <item>تعلم و اقرأ آيةً اليوم</item>
+        <item>الآية اليومية</item>
+        <item>هل تود أن تتعرف على آيةٍ من القرآن؟</item>
+        <item>دعونا نتعلم آيةً من كتاب الله</item>
+        <item>آية اليوم</item>
+        <item>إقرأ آية اليوم؟</item>
+        <item>أنقر لتقرأ الآية </item>
+        <item>ما الذي يخبرك به الله تعالى؟</item>
+        <item>أرح نفسك مع ذكر الله سبحانه اليوم.</item>
+        <item>هل تحدثت اليوم مع الله سبحانه؟</item>
+        <item>دع روحك تتواصل مع خالقها سبحانه</item>
+        <item>اليوم تذكرت الله تعالى ؟</item>
+        <item>اليوم سبحت الله سبحانه ؟</item>
+        <item>سمحا  تذكر الله تعالى </item>
+        <item>غذاءٌ لروحك</item>
+        <item>حان الوقت لتحديثٍ في ذهنك</item>
+        <item>تذكر المولى عز و جل</item>
+    </array>
+    <array name="sura_translation">
+        <item>الفاتحة</item>
+        <item>البقرة</item>
+        <item>آل عمران</item>
+        <item>النساء</item>
+        <item>المائدة</item>
+        <item>اﻷنعام</item>
+        <item>اﻷعراف</item>
+        <item>اﻷنفال</item>
+        <item>التوبة</item>
+        <item>يونس</item>
+        <item>هود</item>
+        <item>يوسف</item>
+        <item>الرعد</item>
+        <item>إبراهيم</item>
+        <item>الحجر</item>
+        <item>النحل</item>
+        <item>اﻹسراء</item>
+        <item>الكهف</item>
+        <item>مريم</item>
+        <item>طه</item>
+        <item>اﻷنبياء</item>
+        <item>الحج</item>
+        <item>المؤمنون</item>
+        <item>النور</item>
+        <item>الفرقان</item>
+        <item>الشعراء</item>
+        <item>النمل</item>
+        <item>القصص</item>
+        <item>العنكبوت</item>
+        <item>الروم</item>
+        <item>لقمان</item>
+        <item>السجدة</item>
+        <item>اﻷحزاب</item>
+        <item>سبأ</item>
+        <item>فاطر</item>
+        <item>يس</item>
+        <item>الصافات</item>
+        <item>ص</item>
+        <item>الزمر</item>
+        <item>غافر</item>
+        <item>فصلت</item>
+        <item>الشورى</item>
+        <item>الزخرف</item>
+        <item>الدخان</item>
+        <item>الجاثية</item>
+        <item>اﻷحقاف</item>
+        <item>محمد</item>
+        <item>الفتح</item>
+        <item>الحجرات</item>
+        <item>ق</item>
+        <item>الذاريات</item>
+        <item>الطور</item>
+        <item>النجم</item>
+        <item>القمر</item>
+        <item>الرحمن</item>
+        <item>الواقعة</item>
+        <item>الحديد</item>
+        <item>المجادلة</item>
+        <item>الحشر</item>
+        <item>الممتحنة</item>
+        <item>الصف</item>
+        <item>الجمعة</item>
+        <item>المنافقون</item>
+        <item>التغابن</item>
+        <item>الطلاق</item>
+        <item>التحريم</item>
+        <item>الملك</item>
+        <item>القلم</item>
+        <item>الحاقة</item>
+        <item>المعارج</item>
+        <item>نوح</item>
+        <item>الجن</item>
+        <item>المزمل</item>
+        <item>المدثر</item>
+        <item>القيامة</item>
+        <item>اﻹنسان</item>
+        <item>المرسلات</item>
+        <item>النبأ</item>
+        <item>النازعات</item>
+        <item>عبس</item>
+        <item>التكوير</item>
+        <item>الانفطار</item>
+        <item>المطففين</item>
+        <item>الانشقاق</item>
+        <item>البروج</item>
+        <item>الطارق</item>
+        <item>اﻷعلى</item>
+        <item>الغاشية</item>
+        <item>الفجر</item>
+        <item>البلد</item>
+        <item>الشمس</item>
+        <item>الليل</item>
+        <item>الضحى</item>
+        <item>الشرح</item>
+        <item>التين</item>
+        <item>العلق</item>
+        <item>القدر</item>
+        <item>البينة</item>
+        <item>الزلزلة</item>
+        <item>العاديات</item>
+        <item>القارعة</item>
+        <item>التكاثر</item>
+        <item>العصر</item>
+        <item>الهمزة</item>
+        <item>الفيل</item>
+        <item>قريش</item>
+        <item>الماعون</item>
+        <item>الكوثر</item>
+        <item>الكافرون</item>
+        <item>النصر</item>
+        <item>المسد</item>
+        <item>اﻹخلاص</item>
+        <item>الفلق</item>
+        <item>الناس</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>الفاتحة</item>
+        <item>البقرة</item>
+        <item>آل عمران</item>
+        <item>النساء</item>
+        <item>المائدة</item>
+        <item>اﻷنعام</item>
+        <item>اﻷعراف</item>
+        <item>اﻷنفال</item>
+        <item>التوبة</item>
+        <item>يونس</item>
+        <item>هود</item>
+        <item>يوسف</item>
+        <item>الرعد</item>
+        <item>إبراهيم</item>
+        <item>الحجر</item>
+        <item>النحل</item>
+        <item>اﻹسراء</item>
+        <item>الكهف</item>
+        <item>مريم</item>
+        <item>طه</item>
+        <item>اﻷنبياء</item>
+        <item>الحج</item>
+        <item>المؤمنون</item>
+        <item>النور</item>
+        <item>الفرقان</item>
+        <item>الشعراء</item>
+        <item>النمل</item>
+        <item>القصص</item>
+        <item>العنكبوت</item>
+        <item>الروم</item>
+        <item>لقمان</item>
+        <item>السجدة</item>
+        <item>اﻷحزاب</item>
+        <item>سبأ</item>
+        <item>فاطر</item>
+        <item>يس</item>
+        <item>الصافات</item>
+        <item>ص</item>
+        <item>الزمر</item>
+        <item>غافر</item>
+        <item>فصلت</item>
+        <item>الشورى</item>
+        <item>الزخرف</item>
+        <item>الدخان</item>
+        <item>الجاثية</item>
+        <item>اﻷحقاف</item>
+        <item>محمد</item>
+        <item>الفتح</item>
+        <item>الحجرات</item>
+        <item>ق</item>
+        <item>الذاريات</item>
+        <item>الطور</item>
+        <item>النجم</item>
+        <item>القمر</item>
+        <item>الرحمن</item>
+        <item>الواقعة</item>
+        <item>الحديد</item>
+        <item>المجادلة</item>
+        <item>الحشر</item>
+        <item>الممتحنة</item>
+        <item>الصف</item>
+        <item>الجمعة</item>
+        <item>المنافقون</item>
+        <item>التغابن</item>
+        <item>الطلاق</item>
+        <item>التحريم</item>
+        <item>الملك</item>
+        <item>القلم</item>
+        <item>الحاقة</item>
+        <item>المعارج</item>
+        <item>نوح</item>
+        <item>الجن</item>
+        <item>المزمل</item>
+        <item>المدثر</item>
+        <item>القيامة</item>
+        <item>اﻹنسان</item>
+        <item>المرسلات</item>
+        <item>النبأ</item>
+        <item>النازعات</item>
+        <item>عبس</item>
+        <item>التكوير</item>
+        <item>الانفطار</item>
+        <item>المطففين</item>
+        <item>الانشقاق</item>
+        <item>البروج</item>
+        <item>الطارق</item>
+        <item>اﻷعلى</item>
+        <item>الغاشية</item>
+        <item>الفجر</item>
+        <item>البلد</item>
+        <item>الشمس</item>
+        <item>الليل</item>
+        <item>الضحى</item>
+        <item>الشرح</item>
+        <item>التين</item>
+        <item>العلق</item>
+        <item>القدر</item>
+        <item>البينة</item>
+        <item>الزلزلة</item>
+        <item>العاديات</item>
+        <item>القارعة</item>
+        <item>التكاثر</item>
+        <item>العصر</item>
+        <item>الهمزة</item>
+        <item>الفيل</item>
+        <item>قريش</item>
+        <item>الماعون</item>
+        <item>الكوثر</item>
+        <item>الكافرون</item>
+        <item>النصر</item>
+        <item>المسد</item>
+        <item>اﻹخلاص</item>
+        <item>الفلق</item>
+        <item>الناس</item>
+    </array>
+    <array name="theme_names">
+        <item>أبيض</item>
+        <item>أسود (ليلي)</item>
+        <item>أخضر</item>
+        <item>بني</item>
+        <item>أزرق داكن</item>
+    </array>
+    <array name="tut_descs">
+        <item>افهم القرآن مع عدة تفاسير تتضمن تفسير ابن كثير</item>
+        <item>رموز تجويد ملونة، صوت، انتقال تلقائي و غيرها</item>
+        <item>عرض تفاصيل الكلمة وتحليلها عند النقر عليها</item>
+        <item>تغيير السيم,الخط مع تكبير وتغيير حجم الخط</item>
+    </array>
+    <array name="verb_form_names">
+        <item>الفعل الماضي</item>
+        <item>الفعل المضارع</item>
+        <item>الأمر</item>
+        <item>اسم الفاعل</item>
+        <item>اسم المفعول</item>
+        <item>المصدر</item>
+    </array>
+</resources>

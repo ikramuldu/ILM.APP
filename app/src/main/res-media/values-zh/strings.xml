@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="books">书籍</string>
+    <string name="article">文章</string>
+    <string name="video">视频</string>
+    <string name="audio">音频</string>
+    <string name="fatwa">教法说明</string>
+</resources>

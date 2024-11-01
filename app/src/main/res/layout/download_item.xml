@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:foreground="?selectableItemBackground"
+    android:layout_margin="@dimen/dp10"
+    app:cardBackgroundColor="?inactive"
+    app:cardElevation="@dimen/dp5"
+    app:cardCornerRadius="@dimen/dp10">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingStart="60dp"
+        android:paddingTop="@dimen/dp10"
+        android:paddingBottom="@dimen/dp10"
+        android:paddingLeft="60dp" />
+
+    <bn.poro.quran.views.MyProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical|start"
+        android:background="?selectableItemBackgroundBorderless"
+        android:max="100" />
+</androidx.cardview.widget.CardView>

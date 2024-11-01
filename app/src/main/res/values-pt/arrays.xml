@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>IndoPak/Asiático (Beta)</item>
+        <item>IndoPak/Asiático (Beta)</item>
+    </array>
+    <array name="numerical">
+        <item>1 ª pessoa</item>
+        <item>2 ª pessoa</item>
+        <item>3 ª pessoa</item>
+        <item>Singular</item>
+        <item>Duplo</item>
+        <item>Plural</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+        <item>Voz Ativa</item>
+        <item>Voz Passiva</item>
+        <item>Caso Genitivo</item>
+        <item>Caso Nominativo</item>
+        <item>Caso Possessivo</item>
+        <item>Indefinido</item>
+        <item>Perfeito</item>
+        <item>Imperfeito</item>
+        <item>Imperativo</item>
+        <item>Indicativo</item>
+        <item>Subjuntivo</item>
+        <item>Imperativo</item>
+        <item>Prefixo</item>
+        <item>Sufixo</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>Caso Oblíquo</item>
+        <item>Adjetivo</item>
+        <item>Locução Conjuntiva</item>
+        <item>Adverbio de Afirmação</item>
+        <item>Conjunções Coordenativas Adversativas</item>
+        <item>Adjunto Adverbial de Causa</item>
+        <item>Advérbio de Afirmação</item>
+        <item>Locução Conjuntiva</item>
+        <item>Locução Adverbial</item>
+        <item>Oração Condicional</item>
+        <item>Conjunção Coordenativa</item>
+        <item>Pronome Demonstrativo</item>
+        <item>Determinante</item>
+        <item>Prefixo laam tipo Enfático</item>
+        <item>Verbo Transitivo Admoestar</item>
+        <item>Interjeição</item>
+        <item>Partícula Explicativa</item>
+        <item>Preposição exceptiva</item>
+        <item>Partícula Futura</item>
+        <item>Substantivo verbal do inifinitivo</item>
+        <item>Prefixo Imperativo tipo laam </item>
+        <item>Partícula Inceptiva</item>
+        <item>Letras árabes isoladas ao inicio de algumas Suratas</item>
+        <item>Partícula de Interpretação</item>
+        <item>Advérbio de Interrogação</item>
+        <item>Advérbio de lugar</item>
+        <item>Substantivo</item>
+        <item>Advérbio de Negação</item>
+        <item>Preposição</item>
+        <item>Substantivo Próprio</item>
+        <item>Partícula Preventiva</item>
+        <item>Imperativo Negativo</item>
+        <item>Pronome Pessoal</item>
+        <item>Prefixo tipo laam Proposital</item>
+        <item>Pronome Relativo</item>
+        <item>Conjunção Conclusiva</item>
+        <item>Partícula de Retomada</item>
+        <item>Conjunção Adversativa</item>
+        <item>Conjunção Conclusiva</item>
+        <item>Conjunção Subordinada</item>
+        <item>Conjunção Subordinativa</item>
+        <item>Interjeições Exclamativas</item>
+        <item>Advérbio de Tempo</item>
+        <item>Verbo</item>
+        <item>Vocativo</item>
+        <item>Verbo Nominal</item>
+        <item>Atenção</item>
+        <item>Distância</item>
+        <item>De Endereçamento</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>Quer saber sobre o Qur\'an</item>
+        <item>O que o Qur\'an dizer sobre</item>
+        <item>O que Allah diz sobre</item>
+        <item>Ayats sobre</item>
+        <item>Ayats sobre</item>
+        <item>Tópico Interessante no Qur´an</item>
+        <item>Tópico de Hoje</item>
+        <item>Confira Isto no Qur´an</item>
+        <item>Aprender isso do Qur´an</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>Ayat do Dia</item>
+        <item>Ayat de Hoje</item>
+        <item>Que tal ler um Ayat?</item>
+        <item>Aprender um Ayat Hoje</item>
+        <item>Ayat Diário</item>
+        <item>Quer entender um Ayat?</item>
+        <item>Vamos aprender um Ayat</item>
+        <item>Ayat de Hoje</item>
+        <item>Ler um Ayat Hoje?</item>
+        <item>Clique para ler um Ayat</item>
+        <item>O que Allah está a lhe dizer?</item>
+        <item>Deixe que Allah fale com você hoje</item>
+        <item>Você já falou com Allah hoje?</item>
+        <item>Vamos falar com Allah</item>
+        <item>Recordaste a Allah hoje?</item>
+        <item>Louvaste a Allah hoje?</item>
+        <item>Recordemos a Allah!</item>
+        <item>Alimento para a alma</item>
+        <item>Momento para refrescar a memória</item>
+        <item>Recorde-se do seu Senhor</item>
+    </array>
+    <array name="sura_translation">
+        <item>A ABERTURA</item>
+        <item>A VACA</item>
+        <item>A FAMÍLIA DE IMRAN </item>
+        <item>AS MULHERES</item>
+        <item>A MESA SERVIDA</item>
+        <item>O GADO</item>
+        <item>OS CISMOS</item>
+        <item>OS ESPÓLIOS</item>
+        <item>O ARREPENDIMENTO</item>
+        <item>JONAS</item>
+        <item>HUD</item>
+        <item>JOSÉ</item>
+        <item>O TROVÃO</item>
+        <item>ABRAÃO</item>
+        <item>AL HIJR</item>
+        <item>AS ABELHAS</item>
+        <item>A VIAGEM NOTURNA</item>
+        <item>A CAVERNA</item>
+        <item>MARIA</item>
+        <item>TÁ, HÁ</item>
+        <item>OS PROFETAS</item>
+        <item>AS PEREGRINAÇÃO</item>
+        <item>OS CRENTES</item>
+        <item>A LUZ</item>
+        <item>O DISCERNIMENTO</item>
+        <item>OS POETAS</item>
+        <item>AS FORMIGAS</item>
+        <item>AS NARRATIVAS</item>
+        <item>A ARANHA</item>
+        <item>OS BIZANTINOS</item>
+        <item>LUCMAN</item>
+        <item>A PROSTRAÇÃO</item>
+        <item>OS PARTIDOS</item>
+        <item>SABÁ</item>
+        <item>O CRIADOR</item>
+        <item>YÁ SIN</item>
+        <item>OS ENFILEIRADOS</item>
+        <item>A LETRA SAD</item>
+        <item>OS GRUPOS</item>
+        <item>O REMISSÓRIO</item>
+        <item>OS DETALHADOS</item>
+        <item>A CONSULTA</item>
+        <item>OS ORNAMENTOS</item>
+        <item>A FUMAÇA</item>
+        <item>O GENUFLEXO</item>
+        <item>AS DUNAS</item>
+        <item>MUHAMMAD</item>
+        <item>O TRIUNFO</item>
+        <item>OS APOSENTOS</item>
+        <item>A LETRA CAF</item>
+        <item>OS VENTOS DISSEMINADORES</item>
+        <item>O MONTE</item>
+        <item>A ESTRELA</item>
+        <item>A LUA</item>
+        <item>O CLEMENTE</item>
+        <item>O EVENTO INEVITAVÉL</item>
+        <item>O FERRO</item>
+        <item>A ARGUMENTAÇÃO</item>
+        <item>O DESTERRO</item>
+        <item>A EXAMINADA</item>
+        <item>AS FILEIRAS</item>
+        <item>A SEXTA-FEIRA</item>
+        <item>OS HIPÓCRITAS</item>
+        <item>AS DEFRAUDAÇÕES RECÍPROCAS</item>
+        <item>O DIVÓRCIO</item>
+        <item>AS PROIBIÇÕES</item>
+        <item>A SOBERANIA</item>
+        <item>O CÁLAMO</item>
+        <item>A REALIDADE</item>
+        <item>AS VIAS DE ASCENÇO</item>
+        <item>NOÉ</item>
+        <item>OS GÊNIOS</item>
+        <item>O ACOBERTADO</item>
+        <item>O ENVOLTO NO MANTO</item>
+        <item>A RESSURREIÇÃO</item>
+        <item>O HOMEM</item>
+        <item>OS ENVIADOS</item>
+        <item>A NOTÍCIA</item>
+        <item>OS ARREBATADORES</item>
+        <item>O AUSTERO</item>
+        <item>O ENROLAMENTO</item>
+        <item>O FENDIMENTO</item>
+        <item>OS FRAUDADORES</item>
+        <item>A FENDA</item>
+        <item>AS CONSTELAÇÕES</item>
+        <item>O VISITANTE NOTURNO</item>
+        <item>O ALTÍSSIMO</item>
+        <item>O EVENTO ASSOLADOR</item>
+        <item>A AURORA</item>
+        <item>A METRÓPOLE</item>
+        <item>O SOL</item>
+        <item>A NOITE</item>
+        <item>AS HORAS DA MANHÃ</item>
+        <item>O CONFORTO</item>
+        <item>O FIGO</item>
+        <item>O COÁGULO</item>
+        <item>O DECRETO</item>
+        <item>A EVIDÊNCIA CLARA</item>
+        <item>O TERREMOTO</item>
+        <item>OS CORCÉIS</item>
+        <item>A CALAMIDADE</item>
+        <item>O ACÚMULO</item>
+        <item>A ERA</item>
+        <item>O DIFAMADOR</item>
+        <item>O ELEFANTE</item>
+        <item>OS CORAIXITAS</item>
+        <item>OS OBSÉQUIOS</item>
+        <item>A ABUNDÂNCIA</item>
+        <item>OS INCRÉDULOS</item>
+        <item>O SOCORRO</item>
+        <item>O ESPARTO</item>
+        <item>A SINCERIDADE</item>
+        <item>A ALVORADA</item>
+        <item>OS HUMANOS</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>A ABERTURA</item>
+        <item>A VACA</item>
+        <item>A FAMÍLIA DE IMRAN</item>
+        <item>AS MULHERES</item>
+        <item>A MESA SERVIDA</item>
+        <item>O GADO</item>
+        <item>OS CISMOS</item>
+        <item>OS ESPÓLIOS</item>
+        <item>O ARREPENDIMENTO</item>
+        <item>JONAS</item>
+        <item>HUD</item>
+        <item>JOSÉ</item>
+        <item>O TROVÃO</item>
+        <item>ABRAÃO</item>
+        <item>AL HIJR</item>
+        <item>AS ABELHAS</item>
+        <item>A VIAGEM NOTURNA</item>
+        <item>A CAVERNA</item>
+        <item>MARIA</item>
+        <item>TA HÁ</item>
+        <item>OS PROFETAS</item>
+        <item>A PEREGRINAÇÃO</item>
+        <item>OS CRENTES</item>
+        <item>A LUZ</item>
+        <item>O DISCERNIMENTO</item>
+        <item>OS POETAS</item>
+        <item>AS FORMIGAS</item>
+        <item>AS NARRATIVAS</item>
+        <item>A ARANHA</item>
+        <item>OS BIZANTINOS</item>
+        <item>LUC MAN</item>
+        <item>A PROSTRAÇÃO</item>
+        <item>OS PARTIDOS</item>
+        <item>SABÁ</item>
+        <item>O CRIADOR</item>
+        <item>YA SIN</item>
+        <item>OS ENFILEIRADOS</item>
+        <item>A LETRA SAD</item>
+        <item>OS GRUPOS</item>
+        <item>O REMISSÓRIO</item>
+        <item>OS DETALHADOS</item>
+        <item>A CONSULTA</item>
+        <item>OS ORNAMENTOS</item>
+        <item>A FUMAÇA</item>
+        <item>O GENUFLEXO</item>
+        <item>AS DUNAS</item>
+        <item>MUHAMMAD</item>
+        <item>O TRIUNFO</item>
+        <item>OS APOSENTOS</item>
+        <item>A LETRA CAF</item>
+        <item>OS VENTOS DISSEMINADORES</item>
+        <item>O MONTE</item>
+        <item>A ESTRELA</item>
+        <item>A LUA</item>
+        <item>O CLEMENTE</item>
+        <item>O EVENTO INEVITAVÉL</item>
+        <item>O FERRO</item>
+        <item>A ARGUMENTAÇÃO</item>
+        <item>O DESTERRO</item>
+        <item>A EXAMINADA</item>
+        <item>AS FILEIRAS</item>
+        <item>A SEXTA-FEIRA</item>
+        <item>OS HIPÓCRITAS</item>
+        <item>AS DEFRAUDAÇÕES RECÍPROCAS</item>
+        <item>O DIVÓRCIO</item>
+        <item>AS PROIBIÇÕES</item>
+        <item>A SOBERANIA</item>
+        <item>O CÁLAMO</item>
+        <item>A REALIDADE</item>
+        <item>AS VIAS DE ASCENSÃO</item>
+        <item>NOÉ</item>
+        <item>OS GÊNIOS</item>
+        <item>O ACOBERTADO</item>
+        <item>O ENVOLTO NO MANTO</item>
+        <item>A RESSURREIÇÃO</item>
+        <item>O HOMEM</item>
+        <item>OS ENVIADOS</item>
+        <item>A NOTÍCIA</item>
+        <item>OS ARREBATADORES</item>
+        <item>O AUSTERO</item>
+        <item>O ENROLAMENTO</item>
+        <item>O FENDIMENTO</item>
+        <item>OS FRAUDADORES</item>
+        <item>A FENDA</item>
+        <item>AS CONSTELAÇÕES</item>
+        <item>O VISITANTE NOTURNO</item>
+        <item>O ALTISSÍMO</item>
+        <item>O EVENTO ASSOLADOR</item>
+        <item>A AURORA</item>
+        <item>A METRÓPOLE</item>
+        <item>O SOL</item>
+        <item>A NOITE</item>
+        <item>AS HORAS DA MANHÃ</item>
+        <item>O CONFORTO</item>
+        <item>O FIGO</item>
+        <item>O COÁGULO</item>
+        <item>O DECRETO</item>
+        <item>A EVIDÊNCIA</item>
+        <item>O TERREMOTO</item>
+        <item>OS CORCÉIS</item>
+        <item>A CALAMIDADE</item>
+        <item>A COBIÇA</item>
+        <item>A ERA</item>
+        <item>O DIFAMADOR</item>
+        <item>O ELEFANTE</item>
+        <item>OS CORAIXATAS</item>
+        <item>OS OBSÉQUIOS</item>
+        <item>A ABUNDÂNCIA </item>
+        <item>OS INCRÉDULOS</item>
+        <item>O SOCORRO</item>
+        <item>O ESPARTO</item>
+        <item>A UNICIDADE</item>
+        <item>A ALVORADA</item>
+        <item>OS HUMANOS</item>
+    </array>
+    <array name="theme_names">
+        <item>Branco</item>
+        <item>Preto (Modo Noturno)</item>
+        <item>Verde</item>
+        <item>Marrom</item>
+        <item>Dark Blue</item>
+    </array>
+    <array name="tut_descs">
+        <item>Entenda o Qur\'an com a ajuda de múltiplas traduções e com o Tafseer Ibn Kathir</item>
+        <item>Regras do Tajweed com cores para te auxiliar na recitação, Áudio, Rolagem Automática e muito mais</item>
+        <item>Uma analise detalhada é exibida, sempre que você clicar sobre uma palavra e a mesma te possibilita fazer mais buscas</item>
+        <item>Mude a aparência, as fontes &amp; para dar zoom use os dedos para aumentar o tamanho do texto</item>
+    </array>
+    <array name="verb_form_names">
+        <item>Pretérito Perfeito</item>
+        <item>Pretérito Imperfeito</item>
+        <item>Modo Imperativo</item>
+        <item>Voz Ativa</item>
+        <item>Voz Passiva</item>
+        <item>Substantitvo</item>
+    </array>
+</resources>

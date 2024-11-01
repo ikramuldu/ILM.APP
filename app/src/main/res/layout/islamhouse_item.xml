@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dp10"
+    android:foreground="?selectableItemBackground"
+    app:cardBackgroundColor="?inactive"
+    app:cardCornerRadius="@dimen/dp10"
+    app:cardElevation="@dimen/dp5">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <bn.poro.quran.views.MyProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="?selectableItemBackgroundBorderless"
+            android:max="100"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:paddingTop="@dimen/dp10"
+            android:paddingStart="@dimen/dp10"
+            android:paddingEnd="@dimen/dp10"
+            app:layout_constraintStart_toEndOf="@id/progressBar"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/progressText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/dp10"
+            android:paddingStart="@dimen/dp10"
+            android:paddingEnd="@dimen/dp10"
+            android:textColor="?colorAccent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/progressBar"
+            app:layout_constraintTop_toBottomOf="@id/text" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dp10"
+    app:cardBackgroundColor="?inactive"
+    app:cardCornerRadius="@dimen/dp10">
+
+    <CheckBox
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        android:paddingStart="@dimen/dp10"
+        android:paddingLeft="@dimen/dp10"
+        android:paddingTop="@dimen/dp10"
+        android:paddingEnd="50dp"
+        android:textDirection="locale"
+        android:paddingRight="50dp"
+        android:paddingBottom="@dimen/dp10"
+        android:textColor="?android:textColor" />
+
+    <bn.poro.quran.views.MyProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical|end"
+        android:background="?selectableItemBackgroundBorderless"
+        android:max="100" />
+</androidx.cardview.widget.CardView>

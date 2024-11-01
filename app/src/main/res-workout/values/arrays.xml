@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title">
+        <item>Full body</item>
+        <item>High stepping</item>
+        <item>Jumping jack</item>
+        <item>Burpees</item>
+
+        <item>ABS</item>
+        <item>Plank</item>
+        <item>One leg bridge</item>
+        <item>Sit ups</item>
+
+        <item>Butt</item>
+        <item>Wall sit</item>
+        <item>Backward lunge</item>
+        <item>Squats</item>
+
+        <item>Arm</item>
+        <item>Triceps dips</item>
+        <item>Push ups</item>
+        <item>Punches</item>
+
+        <item>Leg</item>
+        <item>Font kick</item>
+        <item>Side lunges</item>
+        <item>Step up onto chair</item>
+    </string-array>
+</resources>

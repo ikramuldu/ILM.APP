@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mushaf_names">
+        <item>Uthmani</item>
+        <item>IndoPak/Asian (бета)</item>
+    </array>
+    <array name="numerical">
+        <item>1-е лицо</item>
+        <item>2-й лицо</item>
+        <item>3-е Лицо</item>
+        <item>Единственное число</item>
+        <item>Множественное число</item>
+        <item>Множественное число</item>
+        <item>Мужской</item>
+        <item>Женский</item>
+        <item>Активное Участие</item>
+        <item>Страдательное причастие</item>
+        <item>Родительный падеж</item>
+        <item>Именительный</item>
+        <item>Притяжательный</item>
+        <item>Неопределенный</item>
+        <item>Идеальный</item>
+        <item>Несовершенный</item>
+        <item>Повелительный</item>
+        <item>Указывающий</item>
+        <item>Сослагательный</item>
+        <item>Повелительный</item>
+        <item>Приставка</item>
+        <item>Суффикс</item>
+    </array>
+    <array name="parts_of_speech">
+        <item>Предлог винительного падежа</item>
+        <item>Имя прилагательное</item>
+        <item>Частица поправки</item>
+        <item>Частица ответа</item>
+        <item>Частица отрицания</item>
+        <item>Частица выражения причины</item>
+        <item>Частица опеределенности</item>
+        <item>Обстоятельственная частица</item>
+        <item>Частица совместности</item>
+        <item>Частица условия</item>
+        <item>Соединительный союз</item>
+        <item>Указательное местоимение</item>
+        <item>Определитель</item>
+        <item>Префикс &quot;лям&quot; для усиления</item>
+        <item>Частица уравнивания</item>
+        <item>Частица исключения</item>
+        <item>Частица пояснения</item>
+        <item>Частица исключения</item>
+        <item>Частица будущего времени</item>
+        <item>Повелительное отглагольное существительное</item>
+        <item>Повелительная частица &quot;лям&quot;</item>
+        <item>Частица начинания</item>
+        <item>Отдельные буквы в начале некоторых сур</item>
+        <item>Частица пояснения</item>
+        <item>Вопросительная частица</item>
+        <item>Наречие места</item>
+        <item>Имя существительное</item>
+        <item>Частица отрицания</item>
+        <item>Предлог</item>
+        <item>Имя собственное</item>
+        <item>Частица исключения</item>
+        <item>Частица запрета</item>
+        <item>Личное местоимение</item>
+        <item>Частица цели &quot;лям&quot;</item>
+        <item>Относительное местоимение</item>
+        <item>Частица возобновления</item>
+        <item>Частица исключения</item>
+        <item>Частица отказа</item>
+        <item>Частица главноего пердложения внутри сложноподчиненного</item>
+        <item>Частица масдара</item>
+        <item>Дополнительная частица</item>
+        <item>Частица удивления</item>
+        <item>Наречие времени</item>
+        <item>Глагол</item>
+        <item>Частица обращения</item>
+        <item>Судебный глагол</item>
+        <item>Внимание ! </item>
+        <item>Расстояние</item>
+        <item>Адрес</item>
+    </array>
+    <array name="randomIndexReminder">
+        <item>Узнайте из Корана</item>
+        <item>Что Коран говорит об этом</item>
+        <item>Что Аллах говорит об этом</item>
+        <item>Аят про это</item>
+        <item>Суры про это</item>
+        <item>Интересная тема в Коране</item>
+        <item>Тема на сегодня</item>
+        <item>Посмотрите в Коране</item>
+        <item>Изучите в Коране</item>
+    </array>
+    <array name="randomReminderTxt">
+        <item>Аят дня</item>
+        <item>Сегодняшний аят</item>
+        <item>Желаете прочитать аят?</item>
+        <item>Выучите аят сегодня</item>
+        <item>В день по аяту</item>
+        <item>Хотите узнать аят?</item>
+        <item>Давайте изучим аят</item>
+        <item>Аят на сегодня</item>
+        <item>Вы читали аят сегодня?</item>
+        <item>Нажмите, чтобы прочитать аят</item>
+        <item>Обращение Аллаха</item>
+        <item>Откройте сердце Аллаху сегодня</item>
+        <item>Вы обращались к Аллаху сегодня?</item>
+        <item>Давайте обратимся к Аллаху</item>
+        <item>Ты поминал Аллаха сегодня?</item>
+        <item>Ты восхвалял Аллаха сегодня?</item>
+        <item>Не забывайте об Аллахе</item>
+        <item>Пища для души</item>
+        <item>Настало время освежить мысли</item>
+        <item>Поминай Аллаха</item>
+    </array>
+    <array name="sura_translation">
+        <item>Открывающая Книгу</item>
+        <item>Корова</item>
+        <item>Семейство Имрана</item>
+        <item>Женщины</item>
+        <item>Трапеза</item>
+        <item>Скот</item>
+        <item>Преграды</item>
+        <item>Трофеи</item>
+        <item>Покаяние</item>
+        <item>Йунус</item>
+        <item>Худ</item>
+        <item>Йусуф</item>
+        <item>Гром</item>
+        <item>Ибрахим</item>
+        <item>Ал-Хиджр</item>
+        <item>Пчёлы</item>
+        <item>Ночной перенос</item>
+        <item>Пещера</item>
+        <item>Марьям</item>
+        <item>Та Ха</item>
+        <item>Пророки</item>
+        <item>Паломничество</item>
+        <item>Верующие</item>
+        <item>Свет</item>
+        <item>Различение</item>
+        <item>Поэты</item>
+        <item>Муравьи</item>
+        <item>Повествование</item>
+        <item>Паук</item>
+        <item>Римляне</item>
+        <item>Лукман</item>
+        <item>Земной поклон</item>
+        <item>Сонмы</item>
+        <item>Саба</item>
+        <item>Творец</item>
+        <item>Йа Син</item>
+        <item>Выстроившиеся в ряды</item>
+        <item>Сад</item>
+        <item>Толпы</item>
+        <item>Прощающий</item>
+        <item>Разъяснены</item>
+        <item>Совет</item>
+        <item>Украшения</item>
+        <item>Дым</item>
+        <item>Коленопреклонённые</item>
+        <item>Пески</item>
+        <item>Мухаммад</item>
+        <item>Победа</item>
+        <item>Покои</item>
+        <item>Каф</item>
+        <item>Рассеивающие</item>
+        <item>Гора</item>
+        <item>Звезда</item>
+        <item>Луна</item>
+        <item>Милостивый</item>
+        <item>Событие</item>
+        <item>Железо</item>
+        <item>Препирательство</item>
+        <item>Сбор</item>
+        <item>Испытуемая</item>
+        <item>Ряды</item>
+        <item>Собрание</item>
+        <item>Лицемеры</item>
+        <item>Взаимный обман</item>
+        <item>Развод</item>
+        <item>Запрещение</item>
+        <item>Власть</item>
+        <item>Письменная трость</item>
+        <item>Неминуемое</item>
+        <item>Ступени</item>
+        <item>Нух</item>
+        <item>Джинны</item>
+        <item>Закутавшийся</item>
+        <item>Завернувшийся</item>
+        <item>Воскресение</item>
+        <item>Человек</item>
+        <item>Посылаемые</item>
+        <item>Весть</item>
+        <item>Вырывающие</item>
+        <item>Нахмурился</item>
+        <item>Скручивание</item>
+        <item>Раскалывание</item>
+        <item>Обвешивающие</item>
+        <item>Разверзнется</item>
+        <item>Созвездия зодиака</item>
+        <item>Идущий ночью</item>
+        <item>Высочайший</item>
+        <item>Покрывающее</item>
+        <item>Заря</item>
+        <item>Город</item>
+        <item>Солнце</item>
+        <item>Ночь</item>
+        <item>Утро</item>
+        <item>Раскрытие</item>
+        <item>Смоковница</item>
+        <item>Сгусток</item>
+        <item>Предопределение</item>
+        <item>Ясное знамение</item>
+        <item>Землетрясение</item>
+        <item>Скачущие</item>
+        <item>Поражающее</item>
+        <item>Страсть к приумножению</item>
+        <item>Предвечернее время</item>
+        <item>Хулитель</item>
+        <item>Слон</item>
+        <item>Курайшиты</item>
+        <item>Подаяние</item>
+        <item>Изобилие</item>
+        <item>Неверные</item>
+        <item>Помощь</item>
+        <item>Пальмовые волокна</item>
+        <item>Искренность</item>
+        <item>Рассвет</item>
+        <item>Люди</item>
+    </array>
+    <array name="sura_transliteration">
+        <item>Аль-Фатиха</item>
+        <item>Аль-Бакара</item>
+        <item>Аль Имран</item>
+        <item>Ан-Ниса</item>
+        <item>Аль-Ма\'ида</item>
+        <item>Аль-Ан\'ам</item>
+        <item>Аль-А\'раф</item>
+        <item>Аль-Анфаль</item>
+        <item>Ат-Тауба</item>
+        <item>Йунус</item>
+        <item>Худ</item>
+        <item>Йусуф</item>
+        <item>Ар-Ра\'д</item>
+        <item>Ибрахим</item>
+        <item>Аль-Хиджр</item>
+        <item>Ан-Нахль</item>
+        <item>Аль-Исра\'</item>
+        <item>Аль-Кахф</item>
+        <item>Марйам</item>
+        <item>Та Ха</item>
+        <item>Аль-Анбийа\'</item>
+        <item>Аль-Хадж</item>
+        <item>Аль-Му\'минун</item>
+        <item>Ан-Нур</item>
+        <item>Аль-Фуркан</item>
+        <item>Аш-Шу\'ара\'</item>
+        <item>Ан-Намль</item>
+        <item>Аль-Касас</item>
+        <item>Аль-А\'нкабут</item>
+        <item>Ар-Рум</item>
+        <item>Лукман</item>
+        <item>Ас-Саджда</item>
+        <item>Аль-Ахзаб</item>
+        <item>Саба\'</item>
+        <item>Фатыр</item>
+        <item>Йа Син</item>
+        <item>Ас-Саффат</item>
+        <item>Сад</item>
+        <item>Аз-Зумар</item>
+        <item>Гафир</item>
+        <item>Фуссилят</item>
+        <item>Аш-Шура</item>
+        <item>Аз-Зухруф</item>
+        <item>Ад-Духан</item>
+        <item>Аль-Джасийа</item>
+        <item>Аль-Ахкаф</item>
+        <item>Мухаммад</item>
+        <item>Аль-Фатх</item>
+        <item>Аль-Худжурат</item>
+        <item>Каф</item>
+        <item>Аз-Зарийат</item>
+        <item>Ат-Тур</item>
+        <item>Ан-Наджм</item>
+        <item>Аль-Камар</item>
+        <item>Ар-Рахман</item>
+        <item>Аль-Ваки\'а</item>
+        <item>Аль-Хадид</item>
+        <item>Аль-Муджадила</item>
+        <item>Аль-Хашр</item>
+        <item>Аль-Мумтахана</item>
+        <item>Ас-Сафф</item>
+        <item>Аль-Джуму\'а</item>
+        <item>Аль-Мунафикун</item>
+        <item>Ат-Тагабун</item>
+        <item>Ат-Талак</item>
+        <item>Ат-Тахрим</item>
+        <item>Аль-Мульк</item>
+        <item>Аль-Калам</item>
+        <item>Аль-Хакка</item>
+        <item>Аль-Ма\'аридж</item>
+        <item>Нух</item>
+        <item>Аль-Джинн</item>
+        <item>Аль-Муззаммиль</item>
+        <item>Аль-Мудассир</item>
+        <item>Аль-Кийама</item>
+        <item>Аль-Инсан</item>
+        <item>Аль-Мурсалят</item>
+        <item>Ан-Наба\'</item>
+        <item>Ан-Нази\'ат</item>
+        <item>Абаса</item>
+        <item>Ат-Таквир</item>
+        <item>Аль-Инфитар</item>
+        <item>Аль-Мутаффифин</item>
+        <item>Аль-Иншикак</item>
+        <item>Аль-Бурудж</item>
+        <item>Ат-Тарик</item>
+        <item>Аль-А\'ла</item>
+        <item>Аль-Гашийа</item>
+        <item>Аль-Фаджр</item>
+        <item>Аль-Балад</item>
+        <item>Аш-Шамс</item>
+        <item>Аль-Лейл</item>
+        <item>Ад-Духа</item>
+        <item>Аш-Шарх</item>
+        <item>Ат-Тин</item>
+        <item>Аль-Алак</item>
+        <item>Аль-Кадр</item>
+        <item>Аль-Баййина</item>
+        <item>Аз-Залзала</item>
+        <item>Аль-Адийат</item>
+        <item>Аль-Кари\'а</item>
+        <item>Ат-Такасур</item>
+        <item>Аль-Аср</item>
+        <item>Аль-Хумаза</item>
+        <item>Аль-Филь</item>
+        <item>Курайш</item>
+        <item>Аль-Ма\'ун</item>
+        <item>Аль-Каусар</item>
+        <item>Аль-Кафирун</item>
+        <item>Ан-Наср</item>
+        <item>Аль-Масад</item>
+        <item>Аль-Ихлас</item>
+        <item>Аль-Фалак</item>
+        <item>Ан-Нас</item>
+    </array>
+    <array name="theme_names">
+        <item>Белый</item>
+        <item>Черный (ночной)</item>
+        <item>Зеленый</item>
+        <item>Коричневый</item>
+        <item>Dark Blue</item>
+    </array>
+    <array name="tut_descs">
+        <item>Познавайте Коран посредством разных переводов и тафсира Ибн Касира</item>
+        <item>Цветная кодировка правил таджвида, аудио, автопрокрутка и т.д.</item>
+        <item>Детальный анализ, а также возможность поиска слов при нажатии на слово</item>
+        <item>Настройте темы, шрифты и используйте масштабирование для изменения размера текста</item>
+    </array>
+    <array name="verb_form_names">
+        <item>Совершенное время</item>
+        <item>Несовершенное время</item>
+        <item>Повелительное наклонение</item>
+        <item>Действительный залог</item>
+        <item>Страдательный залог</item>
+        <item>Форма существительного</item>
+    </array>
+</resources>

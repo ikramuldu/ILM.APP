@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <set>
+            <objectAnimator
+                android:duration="200"
+                android:valueFrom="6sp"
+                android:propertyName="textSize"
+                android:valueTo="7sp"/>
+        </set>
+    </item>
+    <item android:state_selected="false">
+        <set>
+            <objectAnimator
+                android:duration="200"
+                android:valueFrom="7sp"
+                android:propertyName="textSize"
+                android:valueTo="6sp"/>
+        </set>
+    </item>
+</selector>

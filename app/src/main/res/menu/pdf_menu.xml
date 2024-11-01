@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_setting"
+        android:title="@string/more_options"/>
+    <item
+        android:id="@+id/antialias"
+        android:checkable="true"
+        android:title="@string/antialias" />
+    <item
+        android:id="@+id/quality"
+        android:checkable="true"
+        android:title="@string/quality" />
+</menu>
